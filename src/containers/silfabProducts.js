@@ -21,13 +21,13 @@ class Silfabproducts extends React.Component {
 											<div className="product-img">
 												<img src="../img/default.jpg" alt=""/>
 												<div className="product-label">
-													<span className="new">${product.precio}</span>
+													<span className="new">Nuevo</span>
 												</div>
 											</div>
 											<div className="product-body">
 												<p className="product-category">{product.categoria}</p>
 												<h3 className="product-name"><a href="#">{product.nombre}</a></h3>
-												<h4 className="product-price">{product.price}</h4>
+												<h4 className="product-price">${product.precio}</h4>
 		
 												<div className="product-btns">
 													<button className="add-to-wishlist"><i className="fa fa-heart-o"></i><span className="tooltipp">Favoritos</span></button>

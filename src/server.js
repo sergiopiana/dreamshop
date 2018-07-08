@@ -123,7 +123,7 @@ app.get('/api/products', (req, res) => {
 
   const product = req.param('product');
   // const uri = `https://api.mercadolibre.com/items/${item}`;
-  const uri = 'http://localhost:8983/solr/dreamshop/select?q=*:*';
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?q=*:*';
   const options = {
     uri,
     method: 'GET',
