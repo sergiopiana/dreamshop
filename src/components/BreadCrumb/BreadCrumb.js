@@ -9,7 +9,7 @@
 
 import React from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
-import s from './breadcrumb.css';
+import s from './breadCrumb.css';
 
 class breadcrumb extends React.Component {
   render() {
