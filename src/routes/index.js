@@ -24,6 +24,14 @@ const routes = {
       load: () => import(/* webpackChunkName: 'silfab' */ './silfab'),
     },
     {
+      path: '/hogar',
+      load: () => import(/* webpackChunkName: 'hogar' */ './hogar'),
+    },
+    {
+      path: '/computacion',
+      load: () => import(/* webpackChunkName: 'computacion' */ './computacion'),
+    },
+    {
       path: '/contact',
       load: () => import(/* webpackChunkName: 'contact' */ './contact'),
     },

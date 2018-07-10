@@ -21,9 +21,9 @@ class Navbar extends React.Component {
             <div className="container">
               <div id="responsive-nav">
                 <ul className="main-nav nav navbar-nav">
-                  <li className="active"><a href="./">Home</a></li>
-                  <li><a href="#">Hogar</a></li>
-                  <li><a href="#">Computacion</a></li>
+                  <li><a href="./">Home</a></li>
+                  <li><a href="./hogar">Hogar</a></li>
+                  <li><a href="./computacion">Computacion</a></li>
                   <li><a href="./silfab"><img style={{'marginTop':'-7px'}} src="img/silfab_btn.png"></img></a></li>
                   <li><a href="#">Contactenos</a></li>
 

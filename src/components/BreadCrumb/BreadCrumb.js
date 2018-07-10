@@ -18,12 +18,12 @@ class breadcrumb extends React.Component {
         <div className={s.container}>
 
           <div id="breadcrumb" class="section">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-12">
-                  <ul class="breadcrumb-tree">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
+                  <ul className="breadcrumb-tree">
                     <li><a href="./">Home</a></li>
-                    <li><a href="#">Silfab</a></li>
+                    <li><a href="#"></a></li>
                   </ul>
                 </div>
               </div>

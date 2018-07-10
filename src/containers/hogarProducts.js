@@ -8,7 +8,7 @@ class Silfabproducts extends React.Component {
 		this.state = {products:[] }  
 	}
   componentDidMount() {
-		fetch('/api/productsSilfab')
+		fetch('/api/productsHogar')
     .then(response => response.json())
     .then((json) => {
       //console.log("Deta"+json.title)
