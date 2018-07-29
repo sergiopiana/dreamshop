@@ -132,7 +132,6 @@
     "*.{css,less,styl,scss,sass,sss}": ["stylelint --fix", "git add --force"]
   },
   "scripts": {
-    "precommit": "lint-staged",
     "lint-js": "eslint --ignore-path .gitignore --ignore-pattern \"!**/.*\" .",
     "lint-css": "stylelint \"src/**/*.{css,less,styl,scss,sass,sss}\"",
     "lint": "yarn run lint-js && yarn run lint-css",

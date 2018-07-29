@@ -84,7 +84,10 @@ class Banners extends React.Component {
               </div>
             </div>
             <div className="col-md-4 col-xs-4">
-              <div className="shopB" style={{ maxHeight: '200px', zIndex: '0' }}>
+              <div
+                className="shopB"
+                style={{ maxHeight: '200px', zIndex: '0' }}
+              >
                 <div className="shop-img">
                   <img src="img/shop_hogar.png" alt="" />
                 </div>
@@ -97,7 +100,7 @@ class Banners extends React.Component {
                   </a>
                 </div>
               </div>
-            </div>            
+            </div>
           </div>
         </div>
       </div>

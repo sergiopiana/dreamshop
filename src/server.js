@@ -37,7 +37,6 @@ import config from './config';
 
 import mongoose from 'mongoose';
 
-
 process.on('unhandledRejection', (reason, p) => {
   console.error('Unhandled Rejection at:', p, 'reason:', reason);
   // send entire app down. Process manager will restart it
@@ -53,7 +52,9 @@ global.navigator.userAgent = global.navigator.userAgent || 'all';
 
 const app = express();
 
-mongoose.connect('mongodb+srv://sergiopiana:Proxenio11@dreamshop-y2lyy.gcp.mongodb.net/test?retryWrites=true')
+mongoose.connect(
+  'mongodb+srv://sergiopiana:Proxenio11@dreamshop-y2lyy.gcp.mongodb.net/test?retryWrites=true',
+);
 //
 // If you are using proxy from external machine, you can set TRUST_PROXY env
 // Default is to trust proxy headers only from loopback interface.
@@ -120,7 +121,7 @@ app.get('/api/rubros', (req, res) => {
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
-  let rubro = req.param('rubro');
+  const rubro = req.param('rubro');
 
   const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:${rubro}* &q=*:*&rows=500&wt=json`;
   const options = {
@@ -143,14 +144,14 @@ app.get('/api/rubros', (req, res) => {
   });
 });
 
-
 app.get('/api/productsSilfab', (req, res) => {
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&rows=500&wt=json';
+  const uri =
+    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&rows=500&wt=json';
   const options = {
     uri,
     method: 'GET',
@@ -205,7 +206,8 @@ app.get('/api/productsComputacion', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22MONITOR%22&q=*:*&rows=30&wt=json';
+  const uri =
+    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22MONITOR%22&q=*:*&rows=30&wt=json';
   const options = {
     uri,
     method: 'GET',

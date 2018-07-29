@@ -10,13 +10,13 @@
 @import '../../components/variables.css';
 
 .root {
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .container {
   margin: 0 auto;
-  padding: 20px 0px;
+  padding: 20px 0;
   text-align: center;
   font-size: 1.5em; /* ~24px */
 
@@ -30,22 +30,14 @@
   font-size: 1.5rem;
 }
 
-.newsDesc {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-size: 1.125rem;
-  }
 
-  pre {
-    white-space: pre-wrap;
-    font-size: 0.875rem;
-  }
 
-  img {
-    max-width: 100%;
-  }
+pre {
+  white-space: pre-wrap;
+  font-size: 0.875rem;
 }
+
+img {
+  max-width: 100%;
+}
+

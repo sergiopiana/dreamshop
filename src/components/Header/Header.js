@@ -13,23 +13,19 @@ import s from './Header.css';
 import Link from '../Link';
 import Navigation from '../Navigation';
 
-
 class Header extends React.Component {
-	constructor(props){
-		super(props)
-		this.state = {rubros:[] }  
-	}
+  constructor(props) {
+    super(props);
+    this.state = { rubros: [] };
+  }
   fetchRubros(rubro) {
-
-		fetch('/api/rubros/rubro='+rubro)
-    .then(response => response.json())
-    .then((json) => {
-      //console.log("Deta"+json.title)
-      this.setState({rubros:json.response.docs })
-		
-		})
-	}
-
+    fetch(`/api/rubros/rubro=${rubro}`)
+      .then(response => response.json())
+      .then(json => {
+        // console.log("Deta"+json.title)
+        this.setState({ rubros: json.response.docs });
+      });
+  }
 
   render() {
     return (
@@ -88,7 +84,11 @@ class Header extends React.Component {
                           <option value="1">Hogar</option>
                           <option value="1">Computacion</option>
                         </select>
-                        <input name="rubroHeader" className="input" placeholder="Buscar" />
+                        <input
+                          name="rubroHeader"
+                          className="input"
+                          placeholder="Buscar"
+                        />
                         <button className="search-btn">Buscar</button>
                       </form>
                     </div>
