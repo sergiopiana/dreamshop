@@ -1,6 +1,6 @@
 
 SELECT 
-P.Nombre as Nombre, P.Observaciones, P.FotoPath as Foto, R.Nombre as rubro, S.Nombre as subrubro, ROUND(PR.precio, 2) as Precio
+P.IdProducto as id ,P.Nombre as nombre, P.Observaciones as descripcion, P.FotoPath as imagen, R.Nombre as rubro, S.Nombre as subrubro, ROUND(PR.precio, 0) as precio, P.BajaStock as stock
 FROM
 	productos P
 LEFT JOIN rubros R  On P.Rubro = R.IdRubro  

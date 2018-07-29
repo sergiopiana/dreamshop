@@ -6,15 +6,7 @@ import Banners from '../../components/Banners';
 import Homeproducts from '../../containers/homeProducts';
 
 class Home extends React.Component {
-  static propTypes = {
-    news: PropTypes.arrayOf(
-      PropTypes.shape({
-        title: PropTypes.string.isRequired,
-        link: PropTypes.string.isRequired,
-        content: PropTypes.string,
-      }),
-    ).isRequired,
-  };
+  
 
   render() {
     return (

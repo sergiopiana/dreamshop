@@ -8,19 +8,26 @@ class homeProducts extends React.Component {
 		this.state = {productsHogar:[] }  
 	}
  	componentDidMount() {
-		fetch('/api/productsHomeHogar')
+		fetch('/api/productsHogar?row=10')
 			.then(response => response.json())
 			.then((json) => {
       			this.setState({productsHogar:json.response.docs })
 			})
 	}
 	render() {
-		
-    const productslistHogar = this.state.productsHogar;
+		const productslistHogar = this.state.productsHogar;
+
+		if (_.isEmpty(productslistHogar)){
+			return(
+				<div>
+					<Loading/>
+				</div>    
+			)
+		}					
 
     return (
       <div> 
-          <div className="col-md-12">
+          <div className="col-md-12" style={{paddingTop:'20px'}}>
 						<div className="section-title">
 							<h3 className="title">Nuevos Productos Hogar</h3>
 							{/* <div className="section-nav">
@@ -34,9 +41,9 @@ class homeProducts extends React.Component {
 						</div>
 					</div>
 						<div className="col-md-12">
-							<div className="row">
+							<div className="row" style={{paddingLeft:'10%', paddingRight:'10%'}}>
 								{productslistHogar.map(product => (
-									<div className="col-sm-3" >
+									<div className="col-sm-2" >
 																<div className="product">
 																	
 																	<div className="product-img">

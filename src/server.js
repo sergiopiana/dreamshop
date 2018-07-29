@@ -116,13 +116,41 @@ app.get(
 // APIS
 // -----------------------------------------------------------------------------
 
+app.get('/api/rubros', (req, res) => {
+  setTimeout(() => {
+    cache = undefined;
+  }, 86400000);
+  let rubro = req.param('rubro');
+
+  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:${rubro}* &q=*:*&rows=500&wt=json`;
+  const options = {
+    uri,
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+  };
+
+  request(options, (err, rsp, body) => {
+    if (err) {
+      return res.status(401).send(err);
+    }
+    if (!err && parseInt(rsp.statusCode, 10) === 200) {
+      res.setHeader('content-type', 'application/json');
+      return res.status(200).send(body);
+    }
+  });
+});
+
+
 app.get('/api/productsSilfab', (req, res) => {
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=categoria:%22Silfab%22&q=*:*&rows=500&wt=json';
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&rows=500&wt=json';
   const options = {
     uri,
     method: 'GET',
@@ -144,12 +172,13 @@ app.get('/api/productsSilfab', (req, res) => {
 });
 
 app.get('/api/productsHogar', (req, res) => {
+  const registros = req.param('row');
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=categoria:%22HOGAR%22&q=*:*&rows=30&wt=json';
+  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22HOGAR%22&q=*:*&rows=${registros}&wt=json`;
   const options = {
     uri,
     method: 'GET',
@@ -176,7 +205,7 @@ app.get('/api/productsComputacion', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=categoria:%22MONITOR%22&q=*:*&rows=30&wt=json';
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22MONITOR%22&q=*:*&rows=30&wt=json';
   const options = {
     uri,
     method: 'GET',

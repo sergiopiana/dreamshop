@@ -49,7 +49,7 @@ class Banners extends React.Component {
             </a>
           </div>
           <div className="row">
-            <div className="col-md-6 col-xs-6">
+            <div className="col-md-4 col-xs-4">
               <div
                 className="shop"
                 style={{ maxHeight: ' 200px', zIndex: '0' }}
@@ -68,7 +68,7 @@ class Banners extends React.Component {
               </div>
             </div>
 
-            <div className="col-md-6 col-xs-6">
+            <div className="col-md-4 col-xs-4">
               <div className="shop" style={{ maxHeight: '200px', zIndex: '0' }}>
                 <div className="shop-img">
                   <img src="img/shop_hogar.png" alt="" />
@@ -83,6 +83,21 @@ class Banners extends React.Component {
                 </div>
               </div>
             </div>
+            <div className="col-md-4 col-xs-4">
+              <div className="shopB" style={{ maxHeight: '200px', zIndex: '0' }}>
+                <div className="shop-img">
+                  <img src="img/shop_hogar.png" alt="" />
+                </div>
+                <div className="shop-body">
+                  <h3>
+                    Silfab<br />
+                  </h3>
+                  <a href="/silfab" className="cta-btn">
+                    Ver Productos <i className="fa fa-arrow-circle-right" />
+                  </a>
+                </div>
+              </div>
+            </div>            
           </div>
         </div>
       </div>
