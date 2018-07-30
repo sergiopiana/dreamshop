@@ -1,0 +1,6 @@
+{
+  "name": "ProductsItemList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ProductsItemList.js"
+}

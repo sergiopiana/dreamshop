@@ -22,8 +22,7 @@ class breadcrumb extends React.Component {
               <div className="row">
                 <div className="col-md-12">
                   <ul className="breadcrumb-tree">
-                    <li><a href="./">Home</a></li>
-                    <li><a href="#"></a></li>
+                    <li><a href="#">{this.props.ruta}</a></li>
                   </ul>
                 </div>
               </div>
