@@ -172,14 +172,20 @@ app.get('/api/productsSilfab', (req, res) => {
   });
 });
 
-app.get('/api/productsHogar', (req, res) => {
+app.get('/api/products', (req, res) => {
   const registros = req.param('row');
+  const valor = req.param('valor');
+  const fq = req.param('fq');
+  const min = 1;
+  const max = 999999;
+  const rand =  Math.round(Math.random() * (max - min) + min);
+  console.log('rand:'+rand)
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
 
   const product = req.param('product');
-  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22HOGAR%22&q=*:*&rows=${registros}&wt=json`;
+  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=random_${rand} desc`;
   const options = {
     uri,
     method: 'GET',
@@ -207,7 +213,7 @@ app.get('/api/productsComputacion', (req, res) => {
 
   const product = req.param('product');
   const uri =
-    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:%22MONITOR%22&q=*:*&rows=30&wt=json';
+    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=!rubro:hogar&q=*:*&rows=50&wt=json';
   const options = {
     uri,
     method: 'GET',

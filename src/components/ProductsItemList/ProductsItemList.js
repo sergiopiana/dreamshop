@@ -10,29 +10,36 @@
 import React from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 import s from './ProductsItemList.css';
-import { Grid, Row, Col } from 'react-flexbox-grid';
 
 class ProductsItemList extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { product: [] };
+    this.state = { product: [], image:'', stock:''};
+    //this.state = {};
+
   }
   componentDidMount(){
-    this.setState({product:this.props.item })
-  }
+    this.setState({product:this.props.item });
+    if(!_.isUndefined(this.state.product.imagen)){ 
+      this.setState({image:this.state.product.imagen });
+     }else{
+      this.setState({image:"../img/default.jpg" });
+     }
+    }
+
   render() {
     return (
-      <Col xs={6} md={2}>
+      <div className={` ${this.props.xs}  ${this.props.md}`}>
 
       <div className="product">
         <div className="product-img">
-          <img src="../img/default.jpg" alt="" />
+          <img src={this.state.image} alt="" />
           <div className="product-label">
-            <span className="new">Nuevo</span>
+            <span className="new">Consultar Stock</span>
           </div>
         </div>
         <div className="product-body">
-          <p className="product-category">{this.state.product.categoria}</p>
+          <p className="product-category">{this.state.product.rubro}</p>
           <h3 className="product-name">
             <a href="#">{this.state.product.nombre}</a>
           </h3>
@@ -56,7 +63,7 @@ class ProductsItemList extends React.Component {
           </div>
         </div>
       </div>
-    </Col>
+    </div>
     );
   }
 }

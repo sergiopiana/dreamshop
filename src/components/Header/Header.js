@@ -22,7 +22,6 @@ class Header extends React.Component {
     fetch(`/api/rubros/rubro=${rubro}`)
       .then(response => response.json())
       .then(json => {
-        // console.log("Deta"+json.title)
         this.setState({ rubros: json.response.docs });
       });
   }

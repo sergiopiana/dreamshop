@@ -6,7 +6,9 @@ import BreadCrumb from '../../components/BreadCrumb';
 import SilfabProducts from '../../containers/silfabProducts';
 
 class Silfab extends React.Component {
-  
+  static propTypes = {
+    title: PropTypes.string.isRequired,
+  };
 
   render() {
     return (

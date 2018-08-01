@@ -11,7 +11,6 @@ export function fetchproductsList() {
 }
 
 function fetchproductsListSuccess(json) {
-  // console.log(json.results);
   return {
     type: FETCH_PRODUCTS_LIST,
     data: json.response.docs,

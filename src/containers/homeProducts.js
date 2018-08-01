@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import _ from 'lodash';
 import Loading from '../components/Loading';
 import ProductsItemList from '../components/ProductsItemList';
-import { Grid, Row, Col } from 'react-flexbox-grid';
 
 class homeProducts extends React.Component {
   constructor(props) {
@@ -10,16 +9,23 @@ class homeProducts extends React.Component {
     this.state = { productsHogar: [] };
   }
   componentDidMount() {
-    fetch('/api/productsHogar?row=10')
+		fetch('/api/products?row=6&fq=rubro&valor=hogar')
       .then(response => response.json())
       .then(json => {
         this.setState({ productsHogar: json.response.docs });
       });
+
+
+      fetch('/api/products?row=6&fq=!rubro&valor=hogar')
+      .then(response => response.json())
+      .then(json => {
+        this.setState({ productsComputacion: json.response.docs });
+      });    
   }
   render() {
     const productslistHogar = this.state.productsHogar;
-
-    if (_.isEmpty(productslistHogar)) {
+    const productslistComputacion = this.state.productsComputacion;
+    if (_.isEmpty(productslistHogar)&& _.isEmpty(productslistComputacion)) {
       return (
         <div>
           <Loading />
@@ -43,15 +49,36 @@ class homeProducts extends React.Component {
           </div>
         </div>
         <div className="col-md-12">
-			<Grid fluid>
-			<Row>
+			<div className="row">
             {productslistHogar.map(product => (
-				<ProductsItemList item={product} />
+				<ProductsItemList item={product} md="col-md-2" xs="col-xs-6"/>
 			))}
-			</Row>
-          </Grid>
+			</div>
           <div id="slick-nav-1" className="products-slick-nav" />
         </div>
+
+
+<div className="col-md-12" style={{ paddingTop: '20px' }}>
+          <div className="section-title">
+            <h3 className="title">Nuevos Productos Computacion</h3>
+            {/* <div className="section-nav">
+								<ul className="section-tab-nav tab-nav">
+									<li className="active"><a data-toggle="tab" href="#tab1">Aceleradoras Graficas</a></li>
+									<li><a data-toggle="tab" href="#tab1">Monitores</a></li>
+									<li><a data-toggle="tab" href="#tab1">Gabinete</a></li>
+									<li><a data-toggle="tab" href="#tab1">Mother Boards</a></li>
+								</ul>
+							</div> */}
+          </div>
+        </div>
+        <div className="col-md-12">
+			<div className="row">
+            {productslistComputacion.map(product => (
+				<ProductsItemList item={product} md="col-md-2" xs="col-xs-6"/>
+			))}
+			</div>
+          <div id="slick-nav-1" className="products-slick-nav" />
+        </div>        
       </div>
     );
   }

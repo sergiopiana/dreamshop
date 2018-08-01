@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import _ from 'lodash';
 import Loading from '../components/Loading';
 import ProductsItemList from '../components/ProductsItemList';
-import { Grid, Row, Col } from 'react-flexbox-grid';
+
 
 class Silfabproducts extends React.Component {
 	constructor(props){
@@ -13,7 +13,6 @@ class Silfabproducts extends React.Component {
 		fetch('/api/productsSilfab')
     .then(response => response.json())
     .then((json) => {
-      //console.log("Deta"+json.title)
       this.setState({products:json.response.docs })
 		
 		})
@@ -27,18 +26,19 @@ class Silfabproducts extends React.Component {
 				)
 			}			
     const productslist = this.state.products;
-    console.log(productslist);
     return (
-			<div className="col-md-12">
+		<div className="container">
+				<div className="col-md-3">
+					<img src="img/logo_02.png" />
+				</div>
+				<div className="col-md-9">
 
-         <Grid fluid>
-					<Row around="md">
-						{productslist.map(product => (
-							<ProductsItemList item={product} />
-						))}
-					</Row>
-          </Grid>
-		</div>
+							{productslist.map(product => (
+								<ProductsItemList item={product} md="col-md-4" xs="col-xs-6" />
+							))}
+
+				</div>
+		</div>			
     );
   }
 }
