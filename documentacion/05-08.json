@@ -1,0 +1,5962 @@
+[
+	{
+		'id' : 16,
+		'nombre' : "CARRY 3.5 NISUTA SATA-USB3.0 (NSGASA35S) 2 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "3,5/",
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 18,
+		'nombre' : "CARRY GENERICO SATA USB3.0 2.5 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "2,5/",
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 23,
+		'nombre' : "CARRY 3.5 NISUTA SATA-USB3.0 (NSGASA35) CON FUENTE BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "3,5/",
+		'precio' : 47,
+		'stock' : "S"
+	},
+	{
+		'id' : 33,
+		'nombre' : "SWITCH TP-LINK (TL-SF1016D) 16 PORT 10-100 Mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 41,
+		'nombre' : "MODULO SAMSUNG J1 ACE J110 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 78,
+		'stock' : "S"
+	},
+	{
+		'id' : 70,
+		'nombre' : "CAMA CATRE PLEGABLE DE CAÑO CON COLCHON (ART 1110000)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 76,
+		'stock' : "S"
+	},
+	{
+		'id' : 76,
+		'nombre' : "TACTIL SAMSUNG TAB2 7\" P3100/P3110",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 132,
+		'nombre' : "ADAPTADOR HDMI HEMBRA A MINI HDMI MACHO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 152,
+		'nombre' : "CABLE USB 2.0 A-B de 3 M",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 153,
+		'nombre' : "CABLE USB 2.0  AM-BM de 1,8 M",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 156,
+		'nombre' : "CABLE UTP 2 Mts FLEXIBLE CON CAPUCHON  (PATCH)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 157,
+		'nombre' : "CABLE UTP 20 M FLEXIBLE CON CAPUCHON (PATCH)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 163,
+		'nombre' : "Cable Super  Video(4 Pines) a 1 Rca 1.5 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/S.VIDEO/V.COMPONENT",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 164,
+		'nombre' : "CABLE UTP CAT 5 X METRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 165,
+		'nombre' : "CABLE UTP 15 MTS FLEXIBLE CON CAPUCHON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 167,
+		'nombre' : "CABLE UTP  1 Mt  FLEXIBLE CON CAPUCHON (PATCH)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 192,
+		'nombre' : "CABLE ALIMENTACION TIPO TREBOL PARA NOTEBOOKS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/POWER",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 193,
+		'nombre' : "Cable Alimentacion Para Notebooks tipo 8",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/POWER",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 196,
+		'nombre' : "FUENTE NOTEBOOK HP 18.5V 3.5A 65W (AGUJA)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 210,
+		'nombre' : "GRASA SILICONADA JERINGA 5 cc.",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 217,
+		'nombre' : "AEROSOL AIRE COMPRIMIDO GRANDE 450 GR",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 223,
+		'nombre' : "TENSIOMETRO DIGITAL SILFAB CH452 AUTOMATICO DE BRAZO (90 MEMORIAS)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 51,
+		'stock' : "S"
+	},
+	{
+		'id' : 232,
+		'nombre' : "PLACA DE RED PCI-E 10/100/1000 TG-3468 TP-LINK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RED",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 233,
+		'nombre' : "CABLE USB M A MICRO USB 1MT FLAT",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 246,
+		'nombre' : "SWITCH TP-Link TL-SF1005D 5 PORT 10/100 Mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 10,
+		'stock' : "S"
+	},
+	{
+		'id' : 272,
+		'nombre' : "PINZA CRIMPEAR RJ45/11/12",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "HERRAMIENTA",
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 296,
+		'nombre' : "MODULO MOTOROLA C PLUS XT1724 /  XT1725 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 30,
+		'stock' : "S"
+	},
+	{
+		'id' : 307,
+		'nombre' : "MODULO LG K8 K350 2016 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 65,
+		'stock' : "S"
+	},
+	{
+		'id' : 309,
+		'nombre' : "MODULO SAMSUNG J7 J701 2017 NEO BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 311,
+		'nombre' : "CONECTOR Y PARA SALIDA DE FUENTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/POWER",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 328,
+		'nombre' : "Placa PCI express 1 puerto serie + 1 paralelo",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RS-232/LPT",
+		'precio' : 23,
+		'stock' : "S"
+	},
+	{
+		'id' : 329,
+		'nombre' : "Placa PCI express 2 puertos serie",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RS-232/LPT",
+		'precio' : 37,
+		'stock' : "S"
+	},
+	{
+		'id' : 341,
+		'nombre' : "PLACA PCI SERIE 2 PUERTOS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RS-232/LPT",
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 354,
+		'nombre' : "CABLE UTP 4.5 MTS FLEXIBLE CON CAPUCHON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 356,
+		'nombre' : "PLACA IDE DE 2 PUERTOS CON RAID",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/SATA/IDE",
+		'precio' : 37,
+		'stock' : "S"
+	},
+	{
+		'id' : 357,
+		'nombre' : "MODULO SAMSUNG J7 710 2016 DORADO AAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 358,
+		'nombre' : "PINZA CRIMPEAR RJ 11/45 METALICA CRICKET",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "HERRAMIENTA",
+		'precio' : 23,
+		'stock' : "S"
+	},
+	{
+		'id' : 384,
+		'nombre' : "CONVERSOR USB BLUETOOTH 4.0",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/USB",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 398,
+		'nombre' : "Cable USB A-B 2.0 de 5 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 399,
+		'nombre' : "BALANZA DE COCINA SILFAB BC308 HANG CELESTE ELECTRONICA PARA COLGAR",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 400,
+		'nombre' : "CABLE HDMI A HDMI 5M",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 10,
+		'stock' : "S"
+	},
+	{
+		'id' : 402,
+		'nombre' : "CABLE AUDIO 3,5 STEREO (M-M) 1.8 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 407,
+		'nombre' : "Cable Super Video 2 M 4(M)-(M)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/S.VIDEO/V.COMPONENT",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 411,
+		'nombre' : "BALANZA ELECTRONICA SILFAB BE211 VIDRIO TEMPLADO  PERSONAL ULTRASLIM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 413,
+		'nombre' : "CABLE UTP 10 MTS FLEXIBLE CON CAPUCHON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 418,
+		'nombre' : "CABLE Alargue USB 2.0 (M)-(H) de 1.8 M",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 421,
+		'nombre' : "CABLE USB A Mini USB 5 pines 1.5 MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 422,
+		'nombre' : "CABLE Alargue USB 2.0 M-H 4.5 m S/amplificar",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 424,
+		'nombre' : "SWITCH TP-LINK (TL-SF1008D) 8 PORT 10/100 Mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 432,
+		'nombre' : "PLACA DE RED 10/100/1000 TP-LINK (TG-3269)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RED",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 439,
+		'nombre' : "CABLE POWER SATA 15 CM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/SATA",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 441,
+		'nombre' : "CABLE SERIAL ATA DE 60 CM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/SATA",
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 464,
+		'nombre' : "TACTIL SAMSUNG TAB4 8\" T330 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 466,
+		'nombre' : "Cable Firewire  6M/4M 1.8 Mts IEEE1394",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/FIRE/WIRE",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 474,
+		'nombre' : "TACTIL SAMSUNG TAB3 8\" T310/T311 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 489,
+		'nombre' : "Cable VGA  DB15 M-15 M 20 Mts Coaxilado",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/MONITOR",
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 498,
+		'nombre' : "SWITCH TP-LINK (TL-SG1024D) 24 PORT 1 GIGA RACKEABLE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 127,
+		'stock' : "S"
+	},
+	{
+		'id' : 502,
+		'nombre' : "CABLE AUDIO 3,5 STEREO (M) a 2 RCA (M) 3Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 512,
+		'nombre' : "CABLE AUDIO 3,5 STEREO A 2 RCA 1.5 MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 519,
+		'nombre' : "CABLE DVI a DVI  de 2 mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 523,
+		'nombre' : "CABLE Alargue VGA 10Mts COAXILADO (INYECTADO)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/MONITOR",
+		'precio' : 20,
+		'stock' : "S"
+	},
+	{
+		'id' : 526,
+		'nombre' : "CABLE Alargue VGA M-H 1.8 Mts COAXILADO (INYECTADO)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/MONITOR",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 529,
+		'nombre' : "MODULO MOTOROLA X PLAY XT1563 XT1568 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 530,
+		'nombre' : "ADAPTADOR DVI (M) A VGA (H)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 531,
+		'nombre' : "MODULO MOTOROLA X STYLE BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 74,
+		'stock' : "S"
+	},
+	{
+		'id' : 532,
+		'nombre' : "ADAPTADOR HDMI MACHO - DVI HEMBRA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 554,
+		'nombre' : "ADAPTADOR STEREO 6.3M A 3.5H",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 573,
+		'nombre' : "ADAPTADOR 12V A 2 USB HEMBRA PARA AUTO MOW! (colores)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 609,
+		'nombre' : "CABLE POWER DE CPU A MONITOR HOMOLOGADO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/VARIOS",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 610,
+		'nombre' : "TACTIL IPAD AIR NEGRO C/ BOTON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 614,
+		'nombre' : "CABLE HDMI A HDMI 1,5 MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 616,
+		'nombre' : "CABLE Alargue USB 2.0 A(m)- A(h) de 3 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 639,
+		'nombre' : "MODULO SAMSUNG J7 J701 NEO 2017 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 653,
+		'nombre' : "MODULO MOTOROLA X STYLE NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 74,
+		'stock' : "S"
+	},
+	{
+		'id' : 658,
+		'nombre' : "MODULO SAMSUNG J7 J701 2017 NEO PLATEADO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 665,
+		'nombre' : "CONVERSOR USB 2.0 A RED 10/100  GENERICO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/USB",
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 693,
+		'nombre' : "CABLE RCA 3X3 M/M 3MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 694,
+		'nombre' : "CABLE UTP 3 MTS FLEXIBLE CON CAPUCHON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 697,
+		'nombre' : "CABLE RCA 2X2 M/M 3mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 699,
+		'nombre' : "CABLE RCA 2X2 M/M 1,5MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 713,
+		'nombre' : "CABLE RCA 1 Canal (M-M) Dorado Metal 1Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 715,
+		'nombre' : "Cable VGA  DB15AM-15AM 5 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/MONITOR",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 727,
+		'nombre' : "TACTIL SAMSUNG TAB3 7\" T211 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 753,
+		'nombre' : "COOLER 8 x 8 cm CONECTOR P/FUENTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "COOLER",
+		'subrubro' : NULL,
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 769,
+		'nombre' : "HD SSD 120GB SANDISK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 65,
+		'stock' : "S"
+	},
+	{
+		'id' : 777,
+		'nombre' : "DVDRW LG 24X SATA  BLACK OEM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DVDRW",
+		'subrubro' : NULL,
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 783,
+		'nombre' : "MODULO IPHONE 6 PLUS BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 785,
+		'nombre' : "GRABADORA DVD EXT LG USB SLIM BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DVDRW",
+		'subrubro' : "USB",
+		'precio' : 28,
+		'stock' : "S"
+	},
+	{
+		'id' : 824,
+		'nombre' : "RIOTORO R280 MINI ITX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 66,
+		'stock' : "S"
+	},
+	{
+		'id' : 837,
+		'nombre' : "GAME PRO G1 S/FUENTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 839,
+		'nombre' : "KIT ATX (MOUSE-PARL-TECL) BRB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 842,
+		'nombre' : "GAME PRO G7 FUENTE 600W (c/kit mouse, tec, y parlantes)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 45,
+		'stock' : "S"
+	},
+	{
+		'id' : 843,
+		'nombre' : "RAIDMAX COBRA-Z BLACK-RED 502 WBR",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 74,
+		'stock' : "S"
+	},
+	{
+		'id' : 853,
+		'nombre' : "RAIDMAX EXO BLACK/BLUE 108BU",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 34,
+		'stock' : "S"
+	},
+	{
+		'id' : 854,
+		'nombre' : "COOLER MASTER STORM ENFORCER SGC-1000-KWN1 S/FUENTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 114,
+		'stock' : "S"
+	},
+	{
+		'id' : 862,
+		'nombre' : "IMPRESORA BROTHER LASER HL-1212W BOX",
+		'descripcion' : "home",
+		'imagen' : "",
+		'rubro' : "IMPRESORA",
+		'subrubro' : "TINTA",
+		'precio' : 122,
+		'stock' : "S"
+	},
+	{
+		'id' : 908,
+		'nombre' : "4GB 2400MHZ DDR4 BOX ADATA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 66,
+		'stock' : "S"
+	},
+	{
+		'id' : 920,
+		'nombre' : "MODULO MOTOROLA Z PLAY XT1635",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 100,
+		'stock' : "S"
+	},
+	{
+		'id' : 927,
+		'nombre' : "MONITOR PHILIPS 19\" 193V5LSB2/55 VGA LED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 115,
+		'stock' : "S"
+	},
+	{
+		'id' : 932,
+		'nombre' : "MONITOR PHILIPS 22\" 223V5LHSB2/55 VGA HDMI LED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : NULL,
+		'precio' : 176,
+		'stock' : "S"
+	},
+	{
+		'id' : 940,
+		'nombre' : "MB GIGABYTE GA-H110M-H DDR4  (SOCKET 1151)  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 72,
+		'stock' : "S"
+	},
+	{
+		'id' : 943,
+		'nombre' : "MB MSI A68HM-E33 V2  s.FM2+  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "AMD",
+		'precio' : 52,
+		'stock' : "S"
+	},
+	{
+		'id' : 958,
+		'nombre' : "MB ASROCK H110M-HDV DDR4 (1151) HDMI-VGA BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 63,
+		'stock' : "S"
+	},
+	{
+		'id' : 965,
+		'nombre' : "MOUSE LOGITECH M170 WIRELESS AZUL USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 970,
+		'nombre' : "MOUSE LOGITECH M170 WIRELESS GREY USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 972,
+		'nombre' : "MOUSE LOGITECH M170 WIRELESS RED USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 985,
+		'nombre' : "NOTEBOOK DELL Inspiron 5577-7342BLK  I7 (Core I7 7700HQ,16gb,ssd 512gb,15.6\"FHD,gtx1050 4gb,WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 1573,
+		'stock' : "S"
+	},
+	{
+		'id' : 995,
+		'nombre' : "NOTEBOOK DELL Inspiron 5566- I7 (Core I7 7500,8gb,ssd 512gb,15.6\",WIN10,dvd)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 945,
+		'stock' : "S"
+	},
+	{
+		'id' : 996,
+		'nombre' : "PARLANTES EDIFIER X600",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 116,
+		'stock' : "S"
+	},
+	{
+		'id' : 1004,
+		'nombre' : "PARLANTES GENIUS GX SW-G2.1 2000 GAMING 45W (8X2 + 29) RMS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 100,
+		'stock' : "S"
+	},
+	{
+		'id' : 1019,
+		'nombre' : "PARLANTES GENERICOS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 1026,
+		'nombre' : "PILA RECARGABLE AAA  (X UNIDAD)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 1030,
+		'nombre' : "PILA 2 AA PANASONIC (X UNIDAD)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 1031,
+		'nombre' : "PILA 3AAA PANASONIC (X UNIDAD)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 1035,
+		'nombre' : "MICRO AMD AM4 RYZEN 3 1200  (3.1GHZ) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 143,
+		'stock' : "S"
+	},
+	{
+		'id' : 1036,
+		'nombre' : "MICRO INTEL PENTIUM G4400 (3.3Ghz) SOC.1151  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 68,
+		'stock' : "S"
+	},
+	{
+		'id' : 1039,
+		'nombre' : "MICRO INTEL CELERON G3930 (2.9 Ghz) SOC.1151 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 45,
+		'stock' : "S"
+	},
+	{
+		'id' : 1041,
+		'nombre' : "MICRO INTEL CORE I3 8100 (3.6Ghz) 6mb Cache  SOC.1151 COFFEELAKE  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 165,
+		'stock' : "S"
+	},
+	{
+		'id' : 1042,
+		'nombre' : "MICRO AMD AM4 APU A6 9500 (3.8GHZ) 8 CORE (2 CPU + 6 GPU) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 66,
+		'stock' : "S"
+	},
+	{
+		'id' : 1047,
+		'nombre' : "MICRO INTEL CORE I7 8700 (3.2Ghz up to 4.6ghz) 12mb Cache  SOC.1151 COFFEELAKE  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 439,
+		'stock' : "S"
+	},
+	{
+		'id' : 1050,
+		'nombre' : "MICRO AMD AM4 APU A8 9600 (3.4GHZ) 10 CORE (4 CPU + 6 GPU) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 75,
+		'stock' : "S"
+	},
+	{
+		'id' : 1053,
+		'nombre' : "MICRO AMD AM4 APU A10 9700 (3.5GHZ) 10 CORE (4 CPU + 6 GPU) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 94,
+		'stock' : "S"
+	},
+	{
+		'id' : 1058,
+		'nombre' : "SINT. DE TV EXT KANJI KJVDBOX2 (S/PC) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SINTONIZADORA",
+		'subrubro' : "EXTERNA",
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 1067,
+		'nombre' : "PLACA DE SONIDO 5.1 PCI NISUTA NS-PCIAU6",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SONIDO",
+		'subrubro' : NULL,
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 1072,
+		'nombre' : "TECLADO PARA NOTEBOOK PAVILLION",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 1088,
+		'nombre' : "TECLADO GENIUS SLIMSTAR 130 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 1089,
+		'nombre' : "TECLADO GENIUS KB-M225 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : "ALAMBRICO",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 1094,
+		'nombre' : "UPS LYONN CTB-800V BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "UPS",
+		'subrubro' : NULL,
+		'precio' : 88,
+		'stock' : "S"
+	},
+	{
+		'id' : 1097,
+		'nombre' : "MODULO SAMSUNG TAB A7 T280 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 85,
+		'stock' : "S"
+	},
+	{
+		'id' : 1109,
+		'nombre' : "TACTIL IPAD 2 BLANCO CON HOME",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 1112,
+		'nombre' : "VGA ASUS GEFORCE GTX 1060 3GB DDR5 DUAL PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 510,
+		'stock' : "S"
+	},
+	{
+		'id' : 1114,
+		'nombre' : "VGA MSI GEFORCE GTX1050 OC 2GB DDR5 PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 244,
+		'stock' : "S"
+	},
+	{
+		'id' : 1127,
+		'nombre' : "VGA EVGA GEFORCE GTX 1050TI 4GB DDR5 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 297,
+		'stock' : "S"
+	},
+	{
+		'id' : 1131,
+		'nombre' : "VGA ASUS GEFORCE GTX 1070TI 8GB DDR5 CERBERUS BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 838,
+		'stock' : "S"
+	},
+	{
+		'id' : 1153,
+		'nombre' : "Cable VGA  DB15 MACHO -DB15 MACHO 1.5 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/MONITOR",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 1155,
+		'nombre' : "DISPLAY SAMSUNG TAB3 T210-P3100-P31",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 1156,
+		'nombre' : "HUB 4 PORT USB 2,0 ESTRELLA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "HUB/USB",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 1157,
+		'nombre' : "CONVERSOR USB BLUETOOTH NISUTA NS-COUSBL P/SONIDO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/USB",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 1163,
+		'nombre' : "MODULO IPHONE 5G BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 1165,
+		'nombre' : "MODULO SAMSUNG A3 2016 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 80,
+		'stock' : "S"
+	},
+	{
+		'id' : 1169,
+		'nombre' : "MODULO SAMSUNG J7 J701 NEO 2017 GRIS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 69,
+		'stock' : "S"
+	},
+	{
+		'id' : 1172,
+		'nombre' : "CABLE USB P/IPHONE 1MT MOW! TEXTIL BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1173,
+		'nombre' : "MODULO IPHONE 8 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 56,
+		'stock' : "S"
+	},
+	{
+		'id' : 1174,
+		'nombre' : "MODULO IPHONE 6 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 1178,
+		'nombre' : "ADAPTADOR 12V P/NEBULIZADOR MICRO PISTON ROSSMAX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 22,
+		'stock' : "S"
+	},
+	{
+		'id' : 1179,
+		'nombre' : "CABLE S. VIDEO 7 pines A RCA 1.8 mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/S.VIDEO/V.COMPONENT",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 1180,
+		'nombre' : "FUENTE NOTEBOOK ACER 19V 4.74A 90W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 1190,
+		'nombre' : "CONVERSOR IDE-SATA A USB Y 220V HE2020 GENERICO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/USB",
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 1195,
+		'nombre' : "AURICULAR WIRELESS PANACOM HP-9686",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "AURICULARES",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 1199,
+		'nombre' : "CONECTOR RJ 45  CAT/5",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "REDES/ACCESORIOS",
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 1214,
+		'nombre' : "MODULO MOTOROLA C XT1750 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 1236,
+		'nombre' : "PLACA USB 4+1 PORT PCI ENCORE // GENERICA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/USB/FIRE/WIRE",
+		'precio' : 19,
+		'stock' : "S"
+	},
+	{
+		'id' : 1246,
+		'nombre' : "PENDRIVE 64GB DT50 USB3.1 KINGSTON BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PENDRIVE",
+		'subrubro' : NULL,
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 1247,
+		'nombre' : "HD SSD 500GB CRUCIAL MX200",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 193,
+		'stock' : "S"
+	},
+	{
+		'id' : 1255,
+		'nombre' : "CONVERSOR DVI-D A VGA HEMBRA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/VARIOS",
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 1256,
+		'nombre' : "HD SSD 525GB CRUCIAL MX300",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 190,
+		'stock' : "S"
+	},
+	{
+		'id' : 1266,
+		'nombre' : "RAIDMAX DELTA I  BLACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 73,
+		'stock' : "S"
+	},
+	{
+		'id' : 1267,
+		'nombre' : "RAIDMAX VORTEX V5 405WB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 1280,
+		'nombre' : "FUENTE NOTEBOOK HP 18.5V 3.5A 65W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 1286,
+		'nombre' : "prueba",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 1295,
+		'nombre' : "MODULO MOTOROLA G5 PLUS XT1687 XT1681 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 34,
+		'stock' : "S"
+	},
+	{
+		'id' : 1301,
+		'nombre' : "4GB 2400MHZ DDR4 CRUCIAL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 67,
+		'stock' : "S"
+	},
+	{
+		'id' : 1305,
+		'nombre' : "MICRO INTEL CORE I5 8400 (2.8Ghz) 9mb Cache  SOC.1151 COFFEELAKE  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 257,
+		'stock' : "S"
+	},
+	{
+		'id' : 1309,
+		'nombre' : "SODIMM 8GB 1600MHZ DDR3 NOVATECH 1.50V BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "SODIMM",
+		'precio' : 91,
+		'stock' : "S"
+	},
+	{
+		'id' : 1317,
+		'nombre' : "FUENTE NOTEBOOK ASUS 19V 1.75A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 52,
+		'stock' : "S"
+	},
+	{
+		'id' : 1322,
+		'nombre' : "WIRELESS USB NISUTA NS-WIUCPE330 OUTDOOR 3 WATT 300mbps HIGH POWER CABLE USB 9.5MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 59,
+		'stock' : "S"
+	},
+	{
+		'id' : 1323,
+		'nombre' : "MOUSE LOGITECH WIRELESS M185 AZUL USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 1324,
+		'nombre' : "RAIDMAX NINJA II BLACK A06WBB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 67,
+		'stock' : "S"
+	},
+	{
+		'id' : 1345,
+		'nombre' : "PILA RECARGABLE AA  (X UNIDAD)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 1349,
+		'nombre' : "WINDOWS 10 PRO OEM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SOFTWARE",
+		'subrubro' : NULL,
+		'precio' : 98,
+		'stock' : "S"
+	},
+	{
+		'id' : 1365,
+		'nombre' : "MB ASUS PRIME B350M-A/CSM DDR4 AM4 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "AMD",
+		'precio' : 112,
+		'stock' : "S"
+	},
+	{
+		'id' : 1368,
+		'nombre' : "SODIMM 8GB 2400MHZ DDR4 CRUCIAL BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 124,
+		'stock' : "S"
+	},
+	{
+		'id' : 1369,
+		'nombre' : "MODULO LG K10 K430 2016 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 71,
+		'stock' : "S"
+	},
+	{
+		'id' : 1371,
+		'nombre' : "RAIDMAX VIPER II BLACK/BLUE A07WBU",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 55,
+		'stock' : "S"
+	},
+	{
+		'id' : 1376,
+		'nombre' : "MODULO SAMSUNG J7 710 2016 DORADO AAAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 140,
+		'stock' : "S"
+	},
+	{
+		'id' : 1380,
+		'nombre' : "UNION COAXIL C/FILTRO (BULONERA)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : NULL,
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 1385,
+		'nombre' : "MB GIGABYTE AORUS Z370 GAMING 3 DDR4 (1151) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 222,
+		'stock' : "S"
+	},
+	{
+		'id' : 1402,
+		'nombre' : "TACTIL SAMSUNG TAB P1000 7\" NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 1403,
+		'nombre' : "TACTIL IPAD MINI 3 NEGRO C/INTEGRADO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 1410,
+		'nombre' : "FUENTE NOTEBOOK DELL ORIGINAL 65W (PIN FINO)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 1412,
+		'nombre' : "WINDOWS 10 HOME",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SOFTWARE",
+		'subrubro' : NULL,
+		'precio' : 104,
+		'stock' : "S"
+	},
+	{
+		'id' : 1415,
+		'nombre' : "PARLANTE VINTAGE BLUETOOTH (COLORES)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 1428,
+		'nombre' : "TELEFONO INAL. INTELBRAS TS2310",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 27,
+		'stock' : "S"
+	},
+	{
+		'id' : 1429,
+		'nombre' : "TELEFONO INAL. INTELBRAS TS3520",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 1437,
+		'nombre' : "8GB 2400MHZ DDR4 CRUCIAL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 118,
+		'stock' : "S"
+	},
+	{
+		'id' : 1438,
+		'nombre' : "8GB 2400MHZ DDR4 BALLISTIX SPORT LT RED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 121,
+		'stock' : "S"
+	},
+	{
+		'id' : 1450,
+		'nombre' : "MODULO MOTOROLA E2 XT1527 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 23,
+		'stock' : "S"
+	},
+	{
+		'id' : 1451,
+		'nombre' : "MODULO MOTOROLA G3 XT1540/1542 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 23,
+		'stock' : "S"
+	},
+	{
+		'id' : 1452,
+		'nombre' : "MODULO LG LEON H326 H340 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 77,
+		'stock' : "S"
+	},
+	{
+		'id' : 1457,
+		'nombre' : "Cable Display Port a HDMI 2m (NSCADPHD) NISUTA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 1469,
+		'nombre' : "MB GIGABYTE Z370 HD3 DDR4 (1151) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 174,
+		'stock' : "S"
+	},
+	{
+		'id' : 1472,
+		'nombre' : "PENDRIVE 16GB SE9 KINGSTON BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PENDRIVE",
+		'subrubro' : NULL,
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 1482,
+		'nombre' : "CADDY NISUTA PARA DISCOS SATA 2.5 WIN",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "INTERNO",
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 1483,
+		'nombre' : "PLACA DE RED 10/100/1000 ENCORE ENLGA-1320",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RED",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 1487,
+		'nombre' : "VGA ASUS GEFORCE GTX 1060 6GB DDR5 DUALSERIES OF PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 559,
+		'stock' : "S"
+	},
+	{
+		'id' : 1494,
+		'nombre' : "MB MSI AMD AM4 A320M GRENADE BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "AMD",
+		'precio' : 100,
+		'stock' : "S"
+	},
+	{
+		'id' : 1496,
+		'nombre' : "MB GIGABYTE GA-E3800N c/micro AMD E2-3800 (1.3 GHz) DDR3 MINI ITX BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "AMD",
+		'precio' : 69,
+		'stock' : "S"
+	},
+	{
+		'id' : 1511,
+		'nombre' : "MB ASROCK AMD AM4 A320M-HDV BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : NULL,
+		'precio' : 77,
+		'stock' : "S"
+	},
+	{
+		'id' : 1525,
+		'nombre' : "VGA MSI GEFORCE GTX1050TI 4GB DDR5 PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 349,
+		'stock' : "S"
+	},
+	{
+		'id' : 1527,
+		'nombre' : "MODULO SAMSUNG J7 J700 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 75,
+		'stock' : "S"
+	},
+	{
+		'id' : 1553,
+		'nombre' : "MB MSI Z370-A PRO DDR4 (1151) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 181,
+		'stock' : "S"
+	},
+	{
+		'id' : 1555,
+		'nombre' : "MB MSI Z370 GAMING PLUS DDR4 (1151) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 195,
+		'stock' : "S"
+	},
+	{
+		'id' : 1556,
+		'nombre' : "VGA MSI GEFORCE GT 1030 OC 2GB DDR5 PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 191,
+		'stock' : "S"
+	},
+	{
+		'id' : 1557,
+		'nombre' : "UPS LYONN CTB-1200AP BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "UPS",
+		'subrubro' : NULL,
+		'precio' : 156,
+		'stock' : "S"
+	},
+	{
+		'id' : 1558,
+		'nombre' : "COOLER PAD NOTEPAL X-LITE COOLER MASTER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "COOLER",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 1560,
+		'nombre' : "DISPLAY SAMSUNG TAB 4 10\" T531",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 58,
+		'stock' : "S"
+	},
+	{
+		'id' : 1572,
+		'nombre' : "MB ASROCK H310M-HDV DDR4 (1151) HDMI-VGA BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 95,
+		'stock' : "S"
+	},
+	{
+		'id' : 1575,
+		'nombre' : "MOUSE GENERICO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "ALAMBRICO",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1588,
+		'nombre' : "MODULO SAMSUNG J7 710 2016 BLANCO AAAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 94,
+		'stock' : "S"
+	},
+	{
+		'id' : 1607,
+		'nombre' : "CONVERSOR USB 220V 1amper IPOD",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 1613,
+		'nombre' : "CONVERSOR USB BLUETOOTH MINI",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/USB",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1642,
+		'nombre' : "MOUSE LOGITECH M585 BLUETOOTH/WIRELESS BLACK BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 1649,
+		'nombre' : "FUENTE COOLER MASTER MWL 500W 80 PLUS BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 55,
+		'stock' : "S"
+	},
+	{
+		'id' : 1650,
+		'nombre' : "4GB 1600MHZ DDR3 BOX CRUCIAL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR3",
+		'precio' : 50,
+		'stock' : "S"
+	},
+	{
+		'id' : 1666,
+		'nombre' : "FUENTE NOTEBOOK ACER 19V 3.42A 65W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 1670,
+		'nombre' : "VGA ASUS ATI RADEON RX570 4GB ROG STRIX DDR5 PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 529,
+		'stock' : "S"
+	},
+	{
+		'id' : 1689,
+		'nombre' : "MODULO LG LEON H326 H340 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 51,
+		'stock' : "S"
+	},
+	{
+		'id' : 1698,
+		'nombre' : "MOUSE LOGITECH WIRELESS M317C COLLECTION DIBUJITOS  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 1711,
+		'nombre' : "BASE NISUTA P/NOTEBOOK HASTA 17\" (NSCN84) Reclinable, hub usb, leds y regulador de veloc",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 1718,
+		'nombre' : "MODULO MOTOROLA G4 PLUS XT1641 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 1737,
+		'nombre' : "FUENTE NOTEBOOK SONY 19,5V  3,9A 75W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 28,
+		'stock' : "S"
+	},
+	{
+		'id' : 1782,
+		'nombre' : "MODULO MOTOROLA E4 PLUS XT1773 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 1783,
+		'nombre' : "CABLE USB 3.0  a USB tipo C",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 1785,
+		'nombre' : "CABLE RCA 2X2 M/M  7 MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 1786,
+		'nombre' : "MODULO IPHONE 6S NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 1794,
+		'nombre' : "CABLE COMPONENTE 1.8 MTS GRUESO 3 RCA RGB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/S.VIDEO/V.COMPONENT",
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 1796,
+		'nombre' : "MODULO SAMSUNG J7 710 2016 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 1802,
+		'nombre' : "MODULO SAMSUNG J1 ACE J110 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 78,
+		'stock' : "S"
+	},
+	{
+		'id' : 1804,
+		'nombre' : "KIT SLIM UNDERWOOD S609 (FTE 600W) (c/mouse, teclado y parlantes)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 58,
+		'stock' : "S"
+	},
+	{
+		'id' : 1806,
+		'nombre' : "COMBO SMART TV MYGICA ATV495X TV BOX (4K, ANDROID 6.0, 1GB, 8GB, TRAFO)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SINTONIZADORA",
+		'subrubro' : "EXTERNA",
+		'precio' : 93,
+		'stock' : "S"
+	},
+	{
+		'id' : 1810,
+		'nombre' : "WIRELESS PCMCIA ENCORE N ENPWI-N",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 1831,
+		'nombre' : "TECLADO GENERICO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1832,
+		'nombre' : "16GB 2400MHZ DDR4 BALLISTIX SPORT LT RED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 243,
+		'stock' : "S"
+	},
+	{
+		'id' : 1840,
+		'nombre' : "CABLE COMPONENTE 2 MTS PURESONIC",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/S.VIDEO/V.COMPONENT",
+		'precio' : 20,
+		'stock' : "S"
+	},
+	{
+		'id' : 1843,
+		'nombre' : "CABLE AUDIO 3,5 STEREO (M) a 2 RCA (M) 7 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1900,
+		'nombre' : "CABLE AUDIO 3,5 STEREO (M-M) 3 Mts",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 1902,
+		'nombre' : "SODIMM 4GB 2400MHZ DDR4 CRUCIAL BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR4",
+		'precio' : 70,
+		'stock' : "S"
+	},
+	{
+		'id' : 1927,
+		'nombre' : "GAME PAD MICROSOFT XBOX WIRELESS BLACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "JOYSTICK",
+		'subrubro' : "GAME/PAD",
+		'precio' : 130,
+		'stock' : "S"
+	},
+	{
+		'id' : 1968,
+		'nombre' : "CONVERSOR MHL 3 EN 1 NISUTA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 37,
+		'stock' : "S"
+	},
+	{
+		'id' : 1978,
+		'nombre' : "JOYSTICK PLAY KOLKE INVADER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "JOYSTICK",
+		'subrubro' : "PALANCA",
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 1982,
+		'nombre' : "AURICULAR KOLKE GAMING BAT KGA-145",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "AURICULARES",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 1989,
+		'nombre' : "MODULO MOTOROLA G4 PLAY XT1601 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 1990,
+		'nombre' : "PENDRIVE 32GB DT50 USB3.1 KINGSTON BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PENDRIVE",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 2006,
+		'nombre' : "CABLE UTP 30 M FLEXIBLE CON CAPUCHON (PATCH)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/UTP/5/6",
+		'precio' : 20,
+		'stock' : "S"
+	},
+	{
+		'id' : 2009,
+		'nombre' : "SODIMM 8GB 1600MHZ DDR3 GENERICA DUAL VOLTAGE 1.35V / 1.5V  OEM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "SODIMM",
+		'precio' : 88,
+		'stock' : "S"
+	},
+	{
+		'id' : 2010,
+		'nombre' : "4GB 1333DDR3 MHZ BOX KINGSTON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR3",
+		'precio' : 54,
+		'stock' : "S"
+	},
+	{
+		'id' : 2024,
+		'nombre' : "AURICULAR INALAMBRICO KOLKE KAW-100",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "AURICULARES",
+		'subrubro' : NULL,
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 2029,
+		'nombre' : "SWITCH TP-Link TL-SG1005D 5 PORT 10/100/1000 Mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 2035,
+		'nombre' : "CABLE EXTENSION 24 PINES A 24 PINES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/POWER",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 2036,
+		'nombre' : "MONITOR VIEWSONIC 24\" VA2407H HDMI-VGA LED WIDE BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 242,
+		'stock' : "S"
+	},
+	{
+		'id' : 2038,
+		'nombre' : "VGA SENTEY GEFORCE GT730 4GB DDR3 PCI-E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VIDEO",
+		'subrubro' : "PCI-E",
+		'precio' : 109,
+		'stock' : "S"
+	},
+	{
+		'id' : 2069,
+		'nombre' : "PENDRIVE 16GB DT50 USB3.1 KINGSTON BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PENDRIVE",
+		'subrubro' : NULL,
+		'precio' : 10,
+		'stock' : "S"
+	},
+	{
+		'id' : 2075,
+		'nombre' : "FUENTE COOLER MASTER MWL 700W 80 PLUS BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 72,
+		'stock' : "S"
+	},
+	{
+		'id' : 2104,
+		'nombre' : "UPS LYONN CTB-800AP LED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "UPS",
+		'subrubro' : NULL,
+		'precio' : 82,
+		'stock' : "S"
+	},
+	{
+		'id' : 2107,
+		'nombre' : "MOUSE LOGITECH M170 WIRELESS BLACK USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "ALAMBRICO",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 2134,
+		'nombre' : "BATERIA PARA HP DV4 11.1V 5200MAH",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 86,
+		'stock' : "S"
+	},
+	{
+		'id' : 2138,
+		'nombre' : "BATERIA PARA IPHONE 5S",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 22,
+		'stock' : "S"
+	},
+	{
+		'id' : 2139,
+		'nombre' : "UPS HUNNOX 850VA LCD C/USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "UPS",
+		'subrubro' : NULL,
+		'precio' : 77,
+		'stock' : "S"
+	},
+	{
+		'id' : 2176,
+		'nombre' : "CINTA PARA FISCAL EPSON LX300",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : "CARTUCHOS",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 2222,
+		'nombre' : "DIFERENCIA DOLAR",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 0,
+		'stock' : "S"
+	},
+	{
+		'id' : 2230,
+		'nombre' : "CABLE AUDIO 3,5 STEREO A 2 RCA 5 MTS PURESONIC",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/AUDIO",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 2246,
+		'nombre' : "CABLE HDMI A HDMI 3 MTS 1,4",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 2285,
+		'nombre' : "PARLANTES GENIUS SW 2.1 375 10W BLACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 36,
+		'stock' : "S"
+	},
+	{
+		'id' : 2286,
+		'nombre' : "PARLANTES GENIUS SW 2.1 370 10W MADERA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 2303,
+		'nombre' : "TECLADO Y MOUSE VERBATIM USB BLACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 2335,
+		'nombre' : "SODIMM 4GB 1333MHZ DDR3 KINGSTON  BOX 1.5V",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "SODIMM",
+		'precio' : 57,
+		'stock' : "S"
+	},
+	{
+		'id' : 2368,
+		'nombre' : "HD 1TB USB3.0 EXTERNO SEAGATE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "USB",
+		'precio' : 70,
+		'stock' : "S"
+	},
+	{
+		'id' : 2387,
+		'nombre' : "NOTEBOOK ACER A515-51-565D I5 (I5 7200,6GB DDR4-1TB-15.6 -WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : "ACER",
+		'precio' : 695,
+		'stock' : "S"
+	},
+	{
+		'id' : 2398,
+		'nombre' : "TACTIL IPAD MINI BLANCO C/BOTON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 27,
+		'stock' : "S"
+	},
+	{
+		'id' : 2405,
+		'nombre' : "CARGADOR PILA PANASONIC ENELOOP + 2 PILAS AA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 2493,
+		'nombre' : "HD 1TB USB 3.0  W.D. EXT ELEMENTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "USB",
+		'precio' : 69,
+		'stock' : "S"
+	},
+	{
+		'id' : 2495,
+		'nombre' : "GAME PAD GENERICO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "JOYSTICK",
+		'subrubro' : "GAME/PAD",
+		'precio' : 5,
+		'stock' : "S"
+	},
+	{
+		'id' : 2531,
+		'nombre' : "DISPLAY IPAD 2",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 2543,
+		'nombre' : "GRASA SILICONADA JERINGA BASE PLATA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 2572,
+		'nombre' : "WIRELESS PCMCIA LINKSYS G  WPC54G",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 2576,
+		'nombre' : "TACTIL SAMSUNG TAB3 7\" P3210 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 2581,
+		'nombre' : "HD 1TB SATA 2,5\" W.D. 9mm",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 70,
+		'stock' : "S"
+	},
+	{
+		'id' : 2584,
+		'nombre' : "1",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 87,
+		'stock' : "S"
+	},
+	{
+		'id' : 2585,
+		'nombre' : "PROYECTOR BENQ MX532 WHITE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 730,
+		'stock' : "S"
+	},
+	{
+		'id' : 2592,
+		'nombre' : "ADAPTADOR MICRO HDMI A HDMI M/M NISUTA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 7,
+		'stock' : "S"
+	},
+	{
+		'id' : 2604,
+		'nombre' : "ADAPTADOR HDMI H-H",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 2611,
+		'nombre' : "SWITCH TP-LINK (TL-SG1008D) 8 PORT GIGA 10/100/1000 Mbps RACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 2635,
+		'nombre' : "PENDRIVE 32GB DTIG4 USB3.0 KINGSTON BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PENDRIVE",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 2647,
+		'nombre' : "WIRELESS USB (TL-WN722N) TP-LINK N 150mbps ANT.4DBI  DESMONT.",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 2650,
+		'nombre' : "FUENTE NOTEBOOK HP 19.5V  3.33A 65W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : "HP",
+		'precio' : 27,
+		'stock' : "S"
+	},
+	{
+		'id' : 2651,
+		'nombre' : "FUENTE NETBOOK HP 19V  2,05A 40W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 2659,
+		'nombre' : "PLACA PCI A PARALELO 1 PUERTO + 2 SERIE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "PLACAS/RS-232/LPT",
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 2669,
+		'nombre' : "ULTRABOOK SILVERSTONE SVT131-2 (celeron3450 4 nuc-4gb-32gb-13.3\"-WIN10-FULLHD)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : "ACER",
+		'precio' : 265,
+		'stock' : "S"
+	},
+	{
+		'id' : 2687,
+		'nombre' : "TACTIL SAMSUNG TAB 10.1\" P7500 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 2700,
+		'nombre' : "SWITCH TP-LINK (TL-SG1016) 16 PORT 10/100/1000 RACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 100,
+		'stock' : "S"
+	},
+	{
+		'id' : 2749,
+		'nombre' : "NOTEBOOK LENOVO IDEAPAD 320-15IKB I5 (Core I5 7200U,2,5ghz,4G,1TB,15,6\",WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 639,
+		'stock' : "S"
+	},
+	{
+		'id' : 2775,
+		'nombre' : "PELOTA DE FUTBOL PROMO RED",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 10,
+		'stock' : "S"
+	},
+	{
+		'id' : 2816,
+		'nombre' : "CABLE HDMI A HDMI 10M 1.4",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 2820,
+		'nombre' : "TECLADO LOGITECH K120 USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 2854,
+		'nombre' : "CONVERSOR VGA A HDMI",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/VARIOS",
+		'precio' : 27,
+		'stock' : "S"
+	},
+	{
+		'id' : 2912,
+		'nombre' : "FUENTE NOTEBOOK SAMSUNG 19V 3.16A (AGUJA)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 2921,
+		'nombre' : "MOUSE LOGITECH WIRELESS M317 BLACK  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 20,
+		'stock' : "S"
+	},
+	{
+		'id' : 2930,
+		'nombre' : "TECLADO Y MOUSE LOGITECH MK270 WIRELESS COMBO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 2936,
+		'nombre' : "TABLET PC SAMSUNG GALAXY TAB E",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 246,
+		'stock' : "S"
+	},
+	{
+		'id' : 2939,
+		'nombre' : "MODULO SAMSUNG J7 PRO 2017 J730 BLANCO AAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 78,
+		'stock' : "S"
+	},
+	{
+		'id' : 2940,
+		'nombre' : "FUENTE NOTEBOOK LENOVO 20V 3.25A 65W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 2945,
+		'nombre' : "LAVARROPAS GLC103 GARDENIA MEZZO 10KGS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 147,
+		'stock' : "S"
+	},
+	{
+		'id' : 2946,
+		'nombre' : "VENTILADOR DE PIE MOD. V20PC PROTALIA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 71,
+		'stock' : "S"
+	},
+	{
+		'id' : 2950,
+		'nombre' : "MODULO SAMSUNG J7 J701 2017 NEO BLANCO AAAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 103,
+		'stock' : "S"
+	},
+	{
+		'id' : 2961,
+		'nombre' : "MODULO MOTOROLA G5 S PLUS XT1800 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 30,
+		'stock' : "S"
+	},
+	{
+		'id' : 2971,
+		'nombre' : "HD SSD 256GB 545S INTEL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 142,
+		'stock' : "S"
+	},
+	{
+		'id' : 2973,
+		'nombre' : "CALOVENTOR DIVERSO FH 803 (c/ahorro de energía) PROTALIA BLANCO",
+		'descripcion' : "HOME",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 19,
+		'stock' : "S"
+	},
+	{
+		'id' : 2976,
+		'nombre' : "MODULO SAMSUNG J7 710 2016 NEGRO AAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 2977,
+		'nombre' : "MODULO SAMSUNG J7 J700 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 89,
+		'stock' : "S"
+	},
+	{
+		'id' : 2978,
+		'nombre' : "MODULO SAMSUNG J3 PRIME NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 51,
+		'stock' : "S"
+	},
+	{
+		'id' : 2981,
+		'nombre' : "MODULO SAMSUNG J7 PRIME G610 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 51,
+		'stock' : "S"
+	},
+	{
+		'id' : 2982,
+		'nombre' : "MODULO IPHONE 6 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 2990,
+		'nombre' : "MOUSE LOGITECH WIRELESS MINI M187 BLUE USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 2992,
+		'nombre' : "MOUSE LOGITECH M105 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "ALAMBRICO",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 3006,
+		'nombre' : "TECLADO Y MOUSE LOGITECH MK220 WIRELESS COMBO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 3009,
+		'nombre' : "PC ALL IN ONE HP 20-c304LA (19.5\",Pentium 4205,6Gb,1tb,WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 570,
+		'stock' : "S"
+	},
+	{
+		'id' : 3017,
+		'nombre' : "COOLER PAD ERGOSTAND LITE COOLER MASTER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "COOLER",
+		'subrubro' : NULL,
+		'precio' : 46,
+		'stock' : "S"
+	},
+	{
+		'id' : 3024,
+		'nombre' : "HD 1TB SATAIII 7200RPM TOSHIBA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 55,
+		'stock' : "S"
+	},
+	{
+		'id' : 3026,
+		'nombre' : "TACTIL IPAD MINI NEGRO C/INTEGRADO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 3059,
+		'nombre' : "WIRELESS USB (TL-WN725N) TP-LINK NANO N 150mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 10,
+		'stock' : "S"
+	},
+	{
+		'id' : 3060,
+		'nombre' : "WIRELESS USB (TL-WN8200ND) TP-LINK 300MBPS  H.POWER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 3061,
+		'nombre' : "WIRELESS USB (TL-WN823N) TP-LINK N 300mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 3076,
+		'nombre' : "PARLANTES EDIFIER M1335",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 86,
+		'stock' : "S"
+	},
+	{
+		'id' : 3078,
+		'nombre' : "MASAJEADOR ESPALDA 4 MOTORES BOOMERANG",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 60,
+		'stock' : "S"
+	},
+	{
+		'id' : 3079,
+		'nombre' : "MASAJEADOR ASIENTO BOOMERANG",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 67,
+		'stock' : "S"
+	},
+	{
+		'id' : 3096,
+		'nombre' : "MODULO SAMSUNG S6 EDGE NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 328,
+		'stock' : "S"
+	},
+	{
+		'id' : 3097,
+		'nombre' : "TACTIL SAMSUNG TAB4 8\" T330 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 3098,
+		'nombre' : "MODULO SAMSUNG S6 AZUL OSCURO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 239,
+		'stock' : "S"
+	},
+	{
+		'id' : 3099,
+		'nombre' : "MODULO IPHONE 6S PLUS NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 36,
+		'stock' : "S"
+	},
+	{
+		'id' : 3108,
+		'nombre' : "FUENTE NETBOOK DELTA/LENOVO 20V  2,0A 40W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 27,
+		'stock' : "S"
+	},
+	{
+		'id' : 3121,
+		'nombre' : "FUENTE COOLER MASTER MWL 600W 80 PLUS BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 3125,
+		'nombre' : "BICICLETA DE BALANCE FUTURA FUTY ROD.12 NENA ROSA (cod.1213)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 3126,
+		'nombre' : "BICICLETA DE BALANCE FUTURA FUTY ROD.12 NENA VIOLETA (cod.1213)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 3128,
+		'nombre' : "BICICLETA FUTURA TWIGGY ROD.16 NENA BLANCO C/VIOLETA (cod.4047)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 3129,
+		'nombre' : "BICICLETA FUTURA TWIN ROD.16 VARON NEGRO C/ROJO (cod.4050)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 3150,
+		'nombre' : "MODEM ROUTER ADSL2+USB WIREL. (TD-W8968) N 300mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "MODEM/ROUTER",
+		'precio' : 37,
+		'stock' : "S"
+	},
+	{
+		'id' : 3154,
+		'nombre' : "MOUSE LOGITECH WIRELESS M185 RED USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 3170,
+		'nombre' : "MB GIGABYTE H370M DS3H DDR4  (SOCKET 1151) (SOLO 8VA)  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 122,
+		'stock' : "S"
+	},
+	{
+		'id' : 3184,
+		'nombre' : "MICRO AMD FM2  A4  4000  (3.2 GHz) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 30,
+		'stock' : "S"
+	},
+	{
+		'id' : 3189,
+		'nombre' : "MODULO SAMSUNG J7 PRO 2017 J730 DORADO AAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 71,
+		'stock' : "S"
+	},
+	{
+		'id' : 3197,
+		'nombre' : "SODIMM 4GB 1600MHZ DDR3 CRUCIAL 1.35V OEM",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "SODIMM",
+		'precio' : 55,
+		'stock' : "S"
+	},
+	{
+		'id' : 3199,
+		'nombre' : "PILETA PILETIN 200X140X50",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 73,
+		'stock' : "S"
+	},
+	{
+		'id' : 3200,
+		'nombre' : "PILETA PILETIN 250X170X60",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 96,
+		'stock' : "S"
+	},
+	{
+		'id' : 3213,
+		'nombre' : "ALMOHADILLA ELECTRICA LARGE SILFAB AL81-A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 3215,
+		'nombre' : "BALANZA DE COCINA CON RECIPIENTE SILFAB BC301",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 3217,
+		'nombre' : "TECLADO LOGITECH K400 USB WIRELESS TOUCH BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 3221,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 CHEETA AZUL C/NARANJA (cod.25178)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 205,
+		'stock' : "S"
+	},
+	{
+		'id' : 3228,
+		'nombre' : "MODULO SAMSUNG S4 I9500 BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 100,
+		'stock' : "S"
+	},
+	{
+		'id' : 3231,
+		'nombre' : "TECLADO Y MOUSE LOGITECH CON CABLE MK120 USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 3241,
+		'nombre' : "MICRO SD 16GB BOX KINGSTON CLASE 10",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : NULL,
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 3242,
+		'nombre' : "MICRO SD 32GB BOX KINGSTON CLASE 10",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : NULL,
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 3246,
+		'nombre' : "BICICLETA FUTURA TWIGGY FULL ROD.16 NENA Canasto Y Portamuñecas BLANCO C/ROSA (cod.4045)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 143,
+		'stock' : "S"
+	},
+	{
+		'id' : 3247,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 PANTERA NEGRO C/ROJO (cod.5179)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 309,
+		'stock' : "S"
+	},
+	{
+		'id' : 3248,
+		'nombre' : "BICICLETA FUTURA PLEGABLE R.20 BREAK ORIGAMI (7150) NEGRA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 276,
+		'stock' : "S"
+	},
+	{
+		'id' : 3271,
+		'nombre' : "AURICULAR SONY MDR-EX15APBZUC NEGRO IN EAR BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "AURICULARES",
+		'subrubro' : NULL,
+		'precio' : 26,
+		'stock' : "S"
+	},
+	{
+		'id' : 3281,
+		'nombre' : "MESA RATONA LAQUEADA DOPPIA NEGRA / WENGUE  VOLENTIERA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 256,
+		'stock' : "S"
+	},
+	{
+		'id' : 3311,
+		'nombre' : "CARRY SATA 2,5\" USB 3.0 NISUTA NS-GASA253E BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "2,5/",
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 3312,
+		'nombre' : "COOLER PAD NOTEPAL CM C3 COOLER MASTER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "COOLER",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 3314,
+		'nombre' : "TENSIOMETRO AUTOMATICO DE MUÑECA CH-605 CITIZEN (SILFAB)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 3315,
+		'nombre' : "BALANZA MECANICA BM200 SILFAB FLORES PRIMAVERA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 3348,
+		'nombre' : "COLCHON LITORAL STANDARD 80 X 1,90 x 17  1 plaza",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 3349,
+		'nombre' : "COLCHON LITORAL TERRA TOP 80 1 plaza",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 137,
+		'stock' : "S"
+	},
+	{
+		'id' : 3367,
+		'nombre' : "WIRELESS PCI-E N de 300mbps (TL-WN881ND) TP-LINK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 3369,
+		'nombre' : "HD SSD 120GB KINGSTON SA400",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 47,
+		'stock' : "S"
+	},
+	{
+		'id' : 3406,
+		'nombre' : "CALEFACTOR CONVECTOR PORTATIL PROTALIA CH2000B NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 77,
+		'stock' : "S"
+	},
+	{
+		'id' : 3411,
+		'nombre' : "ROUTER WIRELESS TP-LINK (TL-WR840N) N 300Mbps  2 ant. internas",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ROUTER",
+		'precio' : 22,
+		'stock' : "S"
+	},
+	{
+		'id' : 3430,
+		'nombre' : "ANTENA TDA PANEL elementos c/balun y cable coaxil",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ANTENA",
+		'precio' : 46,
+		'stock' : "S"
+	},
+	{
+		'id' : 3432,
+		'nombre' : "FUENTE NOTEBOOK TOSHIBA 65W 19V 3.42A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 28,
+		'stock' : "S"
+	},
+	{
+		'id' : 3450,
+		'nombre' : "SPLITTER HDMI 1 PC A 2 MONITORES TIPO CABLE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SPLITER",
+		'precio' : 22,
+		'stock' : "S"
+	},
+	{
+		'id' : 3453,
+		'nombre' : "PILETA PILETIN 300X170X60",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 114,
+		'stock' : "S"
+	},
+	{
+		'id' : 3465,
+		'nombre' : "HORNO ELECTRICO GARDENIA SONETO GHE200 P 60L BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 159,
+		'stock' : "S"
+	},
+	{
+		'id' : 3472,
+		'nombre' : "BATERIA PARA LENOVO G560/G460 11.1V 5200MAH",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 3477,
+		'nombre' : "HORNO ELECTRICO GARDENIA SONETO GHE201 P 60L NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 148,
+		'stock' : "S"
+	},
+	{
+		'id' : 3481,
+		'nombre' : "PILETA PILETIN 400X200X65",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 179,
+		'stock' : "S"
+	},
+	{
+		'id' : 3500,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 ROSA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 3501,
+		'nombre' : "COLCHON LITORAL STANDARD 1,40 X 1,90 (17cm)  2 PLAZAS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 75,
+		'stock' : "S"
+	},
+	{
+		'id' : 3502,
+		'nombre' : "CONVERSOR USB 220V 2.1amper SONY (incluye cable micro usb)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 22,
+		'stock' : "S"
+	},
+	{
+		'id' : 3506,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26  MANTIS NEGRO CON BLANCO (5183)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 262,
+		'stock' : "S"
+	},
+	{
+		'id' : 3511,
+		'nombre' : "MACETA LED GRANDE 0,98CM X 0,48CM RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 84,
+		'stock' : "S"
+	},
+	{
+		'id' : 3513,
+		'nombre' : "WIRELESS USB ARCHER T2UHP TP-LINK AC600 DUALBAND HIGH POWER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 3522,
+		'nombre' : "HD 2TB SATAIII 7200RPM TOSHIBA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 78,
+		'stock' : "S"
+	},
+	{
+		'id' : 3541,
+		'nombre' : "COLCHON LITORAL LINEA STANDARD 80X13  1 plaza",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 3561,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 20000 BLANCO C/MARRON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 3572,
+		'nombre' : "BICICLETA FUTURA TWIN ROD.16 VARON GRIS C/ROJO (cod.4050)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 3597,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26  MANTIS BLANCA CON VERDE (5183)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 262,
+		'stock' : "S"
+	},
+	{
+		'id' : 3598,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 MANTIS GRIS CON NARANJA Y AZUL (5183)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 262,
+		'stock' : "S"
+	},
+	{
+		'id' : 3608,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 CHEETA NEGRO C/AMARILLO (cod.25178)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 205,
+		'stock' : "S"
+	},
+	{
+		'id' : 3609,
+		'nombre' : "CABLE ALARGUE USB 8CM M/H",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/USB/MINI/USB",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 3615,
+		'nombre' : "BICICLETA FUTURA COUNTRY ROD26 DAMA NARANJA C/GRIS METAL (3577)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 175,
+		'stock' : "S"
+	},
+	{
+		'id' : 3621,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 NARANJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 3623,
+		'nombre' : "PARLANTE WOVEN BLUETOOTH NEGRO / AZUL MANIJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 23,
+		'stock' : "S"
+	},
+	{
+		'id' : 3627,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 AZUL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 3629,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO NARANJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 3630,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80001 AZUL Y BLANCA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 3638,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 CHEETA NEGRO CON NARANJA (cod.25178)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 205,
+		'stock' : "S"
+	},
+	{
+		'id' : 3639,
+		'nombre' : "8GB 1600MHZ DDR3 BOX KINGSTON",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR3",
+		'precio' : 104,
+		'stock' : "S"
+	},
+	{
+		'id' : 3645,
+		'nombre' : "SWITCH ENCORE ENHGS-800P 8 PORT GIGA 10/100/1000",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "SWITCH/LAND",
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 3659,
+		'nombre' : "BICICLETA FUTURA TWIGGY ROD.16 NENA BLANCO C/ROSA (cod.4047)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 3660,
+		'nombre' : "BICICLETA FUTURA TWIGGY FULL ROD.16 NENA Canasto Y Portamuñecas BLANCO C/VIOLETA (cod.4045)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 143,
+		'stock' : "S"
+	},
+	{
+		'id' : 3664,
+		'nombre' : "PARLANTE EDIFIER R19 U  USB BLACK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 46,
+		'stock' : "S"
+	},
+	{
+		'id' : 3667,
+		'nombre' : "CUBRE PILETA PARA PILETA DE 200X140X50 PILETIN",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 3668,
+		'nombre' : "CUBRE PILETA PARA PILETA DE 250X170X60 PILETIN",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 3679,
+		'nombre' : "BICICLETA DE BALANCE FUTURA FUTY ROD.12 NENE ROJA (cod.1212)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 3680,
+		'nombre' : "BICICLETA DE BALANCE FUTURA FUTY ROD.12 NENE NEGRO (cod.1212)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 3681,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 PANTERA NEGRO C/CELESTE (cod.5179)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 309,
+		'stock' : "S"
+	},
+	{
+		'id' : 3693,
+		'nombre' : "PANDA ANTIVIRUS PRO 2017  (3 LIC) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SOFTWARE",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 3748,
+		'nombre' : "MACETA LED MEDIANA 70cm X38cmX20cm RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 60,
+		'stock' : "S"
+	},
+	{
+		'id' : 3749,
+		'nombre' : "MACETA LED CHICA 50cm X28cmX16cm RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 58,
+		'stock' : "S"
+	},
+	{
+		'id' : 3765,
+		'nombre' : "MODULO IPHONE 6S PLUS BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 3772,
+		'nombre' : "MODULO SAMSUNG J7 PRO 2017 J730 NEGRO AAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 69,
+		'stock' : "S"
+	},
+	{
+		'id' : 3773,
+		'nombre' : "MODULO SAMSUNG J7 J701 2017 NEO DORADO AAAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 103,
+		'stock' : "S"
+	},
+	{
+		'id' : 3774,
+		'nombre' : "MODULO SAMSUNG J7 J701 2017 NEO NEGRO AAAA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 103,
+		'stock' : "S"
+	},
+	{
+		'id' : 3782,
+		'nombre' : "BICICLETA FUTURA COUNTRY ROD26 DAMA AMARILLA C/GRIS METAL (3577)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 175,
+		'stock' : "S"
+	},
+	{
+		'id' : 3783,
+		'nombre' : "BICICLETA FUTURA COUNTRY ROD26 DAMA ROJA C/GRIS METAL (3577)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 175,
+		'stock' : "S"
+	},
+	{
+		'id' : 3798,
+		'nombre' : "BASTON MONOPOD SELFIE EXTENDIBLE BLUETOOTH CELESTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 74,
+		'stock' : "S"
+	},
+	{
+		'id' : 3808,
+		'nombre' : "POWER BANK HUNTKEY HPBA6000 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 44,
+		'stock' : "S"
+	},
+	{
+		'id' : 3811,
+		'nombre' : "ADAPTADOR HUNTKEY iCARMATE S202C (MAC) 10W BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ADAPTADOR",
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 3823,
+		'nombre' : "SENTEY DS1-4243 FTE 600W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 94,
+		'stock' : "S"
+	},
+	{
+		'id' : 3836,
+		'nombre' : "FUENTE NOTEBOOK LENOVO 20V 4.5A 90W YODA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 3841,
+		'nombre' : "MONITOR AOC 20\" I2080SW  VGA LED BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 146,
+		'stock' : "S"
+	},
+	{
+		'id' : 3843,
+		'nombre' : "BICICLETA FUTURA TWIN ROD.16 VARON AZUL C/AMARILLO (cod.4050)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 3844,
+		'nombre' : "BICICLETA FUTURA MTB ALUMINIO ROD.26 PANTERA NEGRO C/NARANJA (cod.5179)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 309,
+		'stock' : "S"
+	},
+	{
+		'id' : 3856,
+		'nombre' : "POWERLINE EXTENDER TL-WPA4220 KIT 300Mbps EXTENSOR DE RED POR CORRIENTE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ACCESS/POINT/AMPLIFICADOR",
+		'precio' : 76,
+		'stock' : "S"
+	},
+	{
+		'id' : 3857,
+		'nombre' : "NOTEBOOK ASUS ZENBOOK UX410U I3 (Core I3 7100,4gb,1tb,14\"FHD,WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 549,
+		'stock' : "S"
+	},
+	{
+		'id' : 3859,
+		'nombre' : "Cable Mini Display Port macho a HDMI (H)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 3860,
+		'nombre' : "AURICULAR H150 PC/STEREO LOGITECH",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "AURICULARES",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 3863,
+		'nombre' : "ESTUFA HALOGENA HN16 PROTALIA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 55,
+		'stock' : "S"
+	},
+	{
+		'id' : 3866,
+		'nombre' : "PUFF / CUBO CON LED 12V - 220W (40X40) RGB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 53,
+		'stock' : "S"
+	},
+	{
+		'id' : 3874,
+		'nombre' : "MOUSE LOGITECH WIRELESS M185 NEGRO/GRIS USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 3875,
+		'nombre' : "MOUSE LOGITECH WIRELESS M280 BLUE USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 3876,
+		'nombre' : "MOUSE LOGITECH WIRELESS M280 BLACK USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 3877,
+		'nombre' : "MOUSE LOGITECH WIRELESS M280 GRIS USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 3905,
+		'nombre' : "GOOGLE CHROMECAST2 HDMI",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SINTONIZADORA",
+		'subrubro' : "EXTERNA",
+		'precio' : 58,
+		'stock' : "S"
+	},
+	{
+		'id' : 3937,
+		'nombre' : "SPORT CAMERA NISUTA NS-CA720",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 125,
+		'stock' : "S"
+	},
+	{
+		'id' : 3939,
+		'nombre' : "MODULO IPHONE 7 PLUS BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 3940,
+		'nombre' : "MODULO IPHONE 5S BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 3941,
+		'nombre' : "MODULO IPHONE 5C NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 17,
+		'stock' : "S"
+	},
+	{
+		'id' : 3962,
+		'nombre' : "HD SSD 240GB KINGSTON SA400",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 89,
+		'stock' : "S"
+	},
+	{
+		'id' : 3970,
+		'nombre' : "MASAJEADOR DE CUELLO USB BOOMERANG",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 56,
+		'stock' : "S"
+	},
+	{
+		'id' : 3997,
+		'nombre' : "ROUTER WIRELESS (ARCHER C60) TP-LINK AC1350 5 ANTENAS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ROUTER",
+		'precio' : 53,
+		'stock' : "S"
+	},
+	{
+		'id' : 4005,
+		'nombre' : "SINT. DE TV EXT KANJI USB (KJVDUSB) BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SINTONIZADORA",
+		'subrubro' : "EXTERNA",
+		'precio' : 36,
+		'stock' : "S"
+	},
+	{
+		'id' : 4008,
+		'nombre' : "MACETA INALAMBRICA LED GRANDE 0,98CM X 0,48CM RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 130,
+		'stock' : "S"
+	},
+	{
+		'id' : 4009,
+		'nombre' : "MACETA INALAMBRICA LED MEDIANA 70cm X38cmX20cm RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 64,
+		'stock' : "S"
+	},
+	{
+		'id' : 4010,
+		'nombre' : "PUFF / CUBO CON LED INALAMBRICO (40X40) RGB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 64,
+		'stock' : "S"
+	},
+	{
+		'id' : 4013,
+		'nombre' : "MONITOR SAMSUNG 19\" SD300H HDMI VGA LED WIDE BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 174,
+		'stock' : "S"
+	},
+	{
+		'id' : 4014,
+		'nombre' : "CONVERSOR HDMI A VGA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CONVERSORES/VARIOS",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 4015,
+		'nombre' : "POWER BANK TP-LINK TL-PB10400 2 USB 10400 mA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PILA/CARGADOR",
+		'subrubro' : NULL,
+		'precio' : 28,
+		'stock' : "S"
+	},
+	{
+		'id' : 4037,
+		'nombre' : "HD 3TB SATAIII 7200RPM - 64MB TOSHIBA (DT01ACA300)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 113,
+		'stock' : "S"
+	},
+	{
+		'id' : 4038,
+		'nombre' : "PARLANTES GENIUS SP-HF500A 220V",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 46,
+		'stock' : "S"
+	},
+	{
+		'id' : 4039,
+		'nombre' : "PARLANTES GENIUS SP-HF800A 20W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 53,
+		'stock' : "S"
+	},
+	{
+		'id' : 4041,
+		'nombre' : "TECLADO Y MOUSE GENIUS KB-8000X WIRELESS USB BLACK",
+		'descripcion' : "https://static.mercadoshops.com/kit-teclado-mouse-inalambrico-genius-8000-ideal-smart-tv_iZ542693039XvZgrandeXpZ1XfZ9137597-673088829-1XsZ9137597xIM.jpg.http://www.backupcomputacion.com/phpthumb/images/genius-kb-8000-wireless-keyboard-mouse.jpg",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 4042,
+		'nombre' : "NEBULIZADOR ULTRASONICO POTENZA SILFAB N68-A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 53,
+		'stock' : "S"
+	},
+	{
+		'id' : 4044,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO VIOLETA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4045,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 20002 NARANJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 4065,
+		'nombre' : "MACETA LED CHICA INALAMBRICA 50cm X28cmX16cm RGB C/CONTROL TRES COLORES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 57,
+		'stock' : "S"
+	},
+	{
+		'id' : 4067,
+		'nombre' : "HAMACA GRANDE GARDEN TOYS (art 1202)  175cm x 144cm",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 117,
+		'stock' : "S"
+	},
+	{
+		'id' : 4068,
+		'nombre' : "HAMACA CHICA GARDEN TOYS (art 1201)  152cm x 125cm",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 101,
+		'stock' : "S"
+	},
+	{
+		'id' : 4069,
+		'nombre' : "CALESITA GRANDE GARDEN TOYS (art 1102) 127cm x 50cm",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 118,
+		'stock' : "S"
+	},
+	{
+		'id' : 4070,
+		'nombre' : "CALESITA CHICA GARDEN TOYS (art 1101) 108cm x 46cm",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 102,
+		'stock' : "S"
+	},
+	{
+		'id' : 4071,
+		'nombre' : "PORTICO 2 HAMACAS Y UN CABALLITO GARDEN TOYS (art 1001)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 161,
+		'stock' : "S"
+	},
+	{
+		'id' : 4074,
+		'nombre' : "TV  VIEWSONIC 32\" LED HD VTV3275HD BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 316,
+		'stock' : "S"
+	},
+	{
+		'id' : 4078,
+		'nombre' : "FUENTE NETBOOK SONY 19,5V 2.1A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4079,
+		'nombre' : "CARRY SATA 2,5\" USB 3.0 NISUTA NS-GASA253 BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CARRY/DISK",
+		'subrubro' : "2,5/",
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 4081,
+		'nombre' : "FUENTE NOTEBOOK HP 19V 4.74A 90W (AGUJA)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 36,
+		'stock' : "S"
+	},
+	{
+		'id' : 4084,
+		'nombre' : "FUENTE NETBOOK ASUS 19V 2.1A ULTRA FINO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 4085,
+		'nombre' : "FUENTE NOTEBOOK ASUS 19V 3.42A 65W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4086,
+		'nombre' : "FUENTE NETBOOK ASUS 12V 3A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "FUENTES/NOTEBOOKS",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4104,
+		'nombre' : "BICICLETA AURORA 650 ASX  (5955) NEGRO C/ ROJO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 618,
+		'stock' : "S"
+	},
+	{
+		'id' : 4108,
+		'nombre' : "BICICLETA FUTURA PLEGABLE R.20 BREAK ORIGAMI (7150) ROJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 265,
+		'stock' : "S"
+	},
+	{
+		'id' : 4109,
+		'nombre' : "BICICLETA FUTURA PLEGABLE R.20 BREAK ORIGAMI (7150) AZUL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 266,
+		'stock' : "S"
+	},
+	{
+		'id' : 4116,
+		'nombre' : "HD 4TB USB3.0 EXTERNO SEAGATE EXPANSION",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "USB",
+		'precio' : 144,
+		'stock' : "S"
+	},
+	{
+		'id' : 4125,
+		'nombre' : "ROUTER WIRELESS NS-WIR303N NISUTA N300mbps 3 Ant 5 dbi",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ROUTER",
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4129,
+		'nombre' : "HD 2TB SATAIII 7200RPM - BLUE WD (WD20EZRZ)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "SATA",
+		'precio' : 85,
+		'stock' : "S"
+	},
+	{
+		'id' : 4139,
+		'nombre' : "FUENTE EVGA 500W 100W1-0500-KR BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 70,
+		'stock' : "S"
+	},
+	{
+		'id' : 4144,
+		'nombre' : "DISPLAY IPAD 3 - IPAD 4",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 4150,
+		'nombre' : "PANTALLA LED 15.4\" PARA COMPAQ",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 87,
+		'stock' : "S"
+	},
+	{
+		'id' : 4153,
+		'nombre' : "IMPRESORA HP MTF 2135 DESKJET BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "IMPRESORA",
+		'subrubro' : "MULTIFUNCION",
+		'precio' : 60,
+		'stock' : "S"
+	},
+	{
+		'id' : 4156,
+		'nombre' : "ESTUFA HALOGENA HN16T TURBO  PROTALIA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4160,
+		'nombre' : "TURBINA ODONTOLOGICA NSK M600LG B2 DYNALED",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 149,
+		'stock' : "S"
+	},
+	{
+		'id' : 4161,
+		'nombre' : "CABLE HDMI A HDMI 7 MTS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLES/HDMI/DVI",
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 4177,
+		'nombre' : "TECLADO Y MOUSE GENIUS SLIMSTAR C130 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 13,
+		'stock' : "S"
+	},
+	{
+		'id' : 4181,
+		'nombre' : "SECARROPAS GSC800 GARDENIA P/CALOR 800W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 109,
+		'stock' : "S"
+	},
+	{
+		'id' : 4184,
+		'nombre' : "PARLANTES GENIUS SP-HF1800A 50W RMS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PARLANTE",
+		'subrubro' : NULL,
+		'precio' : 95,
+		'stock' : "S"
+	},
+	{
+		'id' : 4189,
+		'nombre' : "CONTRA ANGULO ODONTOLOGICO NSK 203C NAC EC",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 66,
+		'stock' : "S"
+	},
+	{
+		'id' : 4192,
+		'nombre' : "LAMPARA HALOGENA ODONTOLOGICA 1500MW 5W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 71,
+		'stock' : "S"
+	},
+	{
+		'id' : 4193,
+		'nombre' : "TURBINA ODONTOLOGICA PANA MAX NSK (2 HOLES)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 79,
+		'stock' : "S"
+	},
+	{
+		'id' : 4194,
+		'nombre' : "MOUSE LOGITECH WIRELESS MINI M187 BLACK USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MOUSE",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 4199,
+		'nombre' : "MONITOR KTC 24\" W2402S HDMI-VGA PARLANTES FULLHD LED WIDE BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "MONITOR",
+		'subrubro' : "LCD",
+		'precio' : 202,
+		'stock' : "S"
+	},
+	{
+		'id' : 4200,
+		'nombre' : "TOBOGAN 4 ESCALONES GARDEN TOYS CHICO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 142,
+		'stock' : "S"
+	},
+	{
+		'id' : 4202,
+		'nombre' : "WIRELESS USB KANJI NANO N 150mbps",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "WIRELESS/PCI/USB/PCMCIA",
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 4203,
+		'nombre' : "PLACA DE SONIDO 5.1 PCI-EXPRESS nisuta",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "SONIDO",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 4205,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO ROSA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4209,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO VERDE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4210,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO AZUL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4211,
+		'nombre' : "PLANCHA VAPOR GARDENIA GPV120 C/ROCIADOR 1200W",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 45,
+		'stock' : "S"
+	},
+	{
+		'id' : 4212,
+		'nombre' : "HORNO ELECTRICO GARDENIA SAPORE GHE202 VI 60L NEGRO PUERTA VIDRIO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 162,
+		'stock' : "S"
+	},
+	{
+		'id' : 4213,
+		'nombre' : "HORNO ELECTRICO GARDENIA SAPORE GHE203 VI 60L BLANCO PUERTA VIDRIO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 161,
+		'stock' : "S"
+	},
+	{
+		'id' : 4214,
+		'nombre' : "NEBULIZADOR A PISTON PIXEL SILFAB N30-A",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 43,
+		'stock' : "S"
+	},
+	{
+		'id' : 4225,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO AMARILLA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4226,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO BLANCA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4227,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO ROJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4229,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 ROJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4230,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 VERDE CLARO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4231,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 50002 VERDE OSCURO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 25,
+		'stock' : "S"
+	},
+	{
+		'id' : 4232,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80012 ALUMINIO GRIS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4233,
+		'nombre' : "HELADERA EXHIBIDORA GARDENIA GEV370  PUERTA VIDRIO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 539,
+		'stock' : "S"
+	},
+	{
+		'id' : 4235,
+		'nombre' : "TECLADO Y MOUSE LOGITECH MK235 WIRELESS COMBO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : "INALAMBRICO",
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 4236,
+		'nombre' : "TECLADO Y MOUSE LOGITECH MK345 WIRELESS COMBO USB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 4242,
+		'nombre' : "BALANZA MECANICA BM201 SILFAB RAYAS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 16,
+		'stock' : "S"
+	},
+	{
+		'id' : 4243,
+		'nombre' : "BALANZA ELECTRONICA PERSONAL CURVA BLANCA BE209 SILFAB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 33,
+		'stock' : "S"
+	},
+	{
+		'id' : 4244,
+		'nombre' : "BALANZA ELECTRONICA SILFAB BE210 PERSONAL CURBA GRIS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 4245,
+		'nombre' : "BALANZA DE COCINA CON RECIPIENTE ACERO INOXIDABLE SILFAB BC304",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 29,
+		'stock' : "S"
+	},
+	{
+		'id' : 4246,
+		'nombre' : "BALANZA DE COCINA ULTRA SLIM UTENSILLOS SILFAB BC300",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 19,
+		'stock' : "S"
+	},
+	{
+		'id' : 4247,
+		'nombre' : "BALANZA DE COCINA ULTRA SLIM CONDIMENTOS SILFAB BC302",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 19,
+		'stock' : "S"
+	},
+	{
+		'id' : 4251,
+		'nombre' : "IMPRESORA HP LASERJET PRO M102W BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "IMPRESORA",
+		'subrubro' : "LASER",
+		'precio' : 108,
+		'stock' : "S"
+	},
+	{
+		'id' : 4252,
+		'nombre' : "MICRO INTEL CORE I7 7700 (3.6Ghz- up to 4.2Ghz) 8mb Cache  SOC.1151  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 409,
+		'stock' : "S"
+	},
+	{
+		'id' : 4260,
+		'nombre' : "MICRO INTEL CORE I3 7100 (3.9Ghz-) 3mb Cache  SOC.1151  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 152,
+		'stock' : "S"
+	},
+	{
+		'id' : 4261,
+		'nombre' : "MICRO INTEL CORE I5 7400 (3.0Ghz- up to 3.5Ghz) 6mb Cache  SOC.1151  BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "INTEL",
+		'precio' : 236,
+		'stock' : "S"
+	},
+	{
+		'id' : 4270,
+		'nombre' : "PANTALLA LED 14.1\" PARA NOTEBOOK",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : NULL,
+		'precio' : 64,
+		'stock' : "S"
+	},
+	{
+		'id' : 4272,
+		'nombre' : "TOBOGAN 5 ESCALONES GARDEN TOYS GRANDE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 151,
+		'stock' : "S"
+	},
+	{
+		'id' : 4273,
+		'nombre' : "MANTA TERMICA 1 PLAZA  MTS100 SILFAB POLIESTER 3 NIV DE TEMP CLIMATIZADOR PARA CAMA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 38,
+		'stock' : "S"
+	},
+	{
+		'id' : 4274,
+		'nombre' : "MANTA TERMICA 2 PLAZAS  MTD100 SILFAB POLIESTER 3 NIV DE TEMP CLIMATIZADOR PARA CAMA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 48,
+		'stock' : "S"
+	},
+	{
+		'id' : 4278,
+		'nombre' : "TECLADO GENIUS KB-125 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 4279,
+		'nombre' : "TECLADO GENIUS LUXEMATE 100 USB BLACK BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 4280,
+		'nombre' : "TECLADO Y MOUSE GENIUS KM-130 USB BOX",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "TECLADO",
+		'subrubro' : NULL,
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 4282,
+		'nombre' : "PANEL CONVECTOR SENS TOUCH 1500W CH1500N PROTALIA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 109,
+		'stock' : "S"
+	},
+	{
+		'id' : 4286,
+		'nombre' : "ACCESS POINT TP LINK CPE-220 EXTERIOR HIGH POWER 300Mbps 2.4GHZ 12dBi",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ACCESS/POINT/AMPLIFICADOR",
+		'precio' : 49,
+		'stock' : "S"
+	},
+	{
+		'id' : 4289,
+		'nombre' : "SPINNER",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 8,
+		'stock' : "S"
+	},
+	{
+		'id' : 4293,
+		'nombre' : "BALANZA DE COCINA ULTRA SLIM DONUTS SILFAB BC303",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 20,
+		'stock' : "S"
+	},
+	{
+		'id' : 4294,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 80001 NARANJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 51,
+		'stock' : "S"
+	},
+	{
+		'id' : 4295,
+		'nombre' : "REPOSERAS 5 POSIC DESCANSAR 20000 NARANJA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 4297,
+		'nombre' : "NOTEBOOK ASUS S510U I7 (Core I7 7500,8gb,1tb,15.6\",video 2gb,WIN10)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "NOTEBOOK",
+		'subrubro' : "ASUS",
+		'precio' : 998,
+		'stock' : "S"
+	},
+	{
+		'id' : 4298,
+		'nombre' : "PATINES SOY LUNA VARIOS TALLES",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : NULL,
+		'subrubro' : NULL,
+		'precio' : 140,
+		'stock' : "S"
+	},
+	{
+		'id' : 4299,
+		'nombre' : "LAVARROPAS GLC102 GARDENIA 5KGS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 120,
+		'stock' : "S"
+	},
+	{
+		'id' : 4300,
+		'nombre' : "NEBULIZADOR MINIPISTON SILFAB NB60",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 69,
+		'stock' : "S"
+	},
+	{
+		'id' : 4301,
+		'nombre' : "NEBULIZADOR MINIPISTON INFANTIL NB80 SILFAB (PERRITO)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 72,
+		'stock' : "S"
+	},
+	{
+		'id' : 4302,
+		'nombre' : "NEBULIZADOR MESH PORTATIL NB-810B SILFAB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 105,
+		'stock' : "S"
+	},
+	{
+		'id' : 4304,
+		'nombre' : "BALANZA DE BAÑO SILFAB BE700I-BL ELECTRONICA CON BLUETOOTH BLANCA",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 56,
+		'stock' : "S"
+	},
+	{
+		'id' : 4307,
+		'nombre' : "MODULO SAMSUNG J1 ACE J110 AZUL",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 78,
+		'stock' : "S"
+	},
+	{
+		'id' : 4308,
+		'nombre' : "TACTIL SAMSUNG TAB3 8\" T310/T311 NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 12,
+		'stock' : "S"
+	},
+	{
+		'id' : 4309,
+		'nombre' : "MODULO IPHONE 6S BLANCO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "VARIOS",
+		'subrubro' : NULL,
+		'precio' : 31,
+		'stock' : "S"
+	},
+	{
+		'id' : 4310,
+		'nombre' : "TENSIOMETRO DIGITAL SILFAB CHU304 AUTOMATICO DE BRAZO (99 MEMORIAS)",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 54,
+		'stock' : "S"
+	},
+	{
+		'id' : 4311,
+		'nombre' : "EXTENSOR DE RANGO RE200 TP-LINK AC750 DUAL BAND",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ACCESS/POINT/AMPLIFICADOR",
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 4312,
+		'nombre' : "CALOVENTOR DIVERSO FH 803 (c/ahorro de energía) PROTALIA NEGRO",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 19,
+		'stock' : "S"
+	},
+	{
+		'id' : 4316,
+		'nombre' : "BASTON ALUMINIO SILFAB B902 ANODIZADO REGULABLE",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 4317,
+		'nombre' : "PEDALERA PLEGABLE BASICA SILFAB PED100",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 53,
+		'stock' : "S"
+	},
+	{
+		'id' : 4318,
+		'nombre' : "ANDADOR DOBLE GRIP SILFAB A3017",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 64,
+		'stock' : "S"
+	},
+	{
+		'id' : 4319,
+		'nombre' : "BALANZA ELECTRONICA SILFAB BE207 PERSONAL BAMBOO 180KGS",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 41,
+		'stock' : "S"
+	},
+	{
+		'id' : 4320,
+		'nombre' : "FRAZADA TERMICA BEIGE FOD 400-B SILFAB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 4321,
+		'nombre' : "FRAZADA TERMICA GRIS FOD 400-G SILFAB",
+		'descripcion' : "",
+		'imagen' : "",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 959,
+		'nombre' : "MB ASROCK H110M-HDS DDR4 (1151) HDMI BOX",
+		'descripcion' : "home",
+		'imagen' : "X:\\asrockh110hds.jpg",
+		'rubro' : "MOTHERBOARD",
+		'subrubro' : "INTEL",
+		'precio' : 62,
+		'stock' : "S"
+	},
+	{
+		'id' : 1928,
+		'nombre' : "FUENTE 550W BRB",
+		'descripcion' : "",
+		'imagen' : "X:\\brb500w.jpg",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 14,
+		'stock' : "S"
+	},
+	{
+		'id' : 4132,
+		'nombre' : "FUENTE ATX 500W BRB MINI",
+		'descripcion' : "",
+		'imagen' : "X:\\brb500wmini.jpg",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 438,
+		'nombre' : "CAPUCHON PARA RJ45 GOMA (VARIOS COLORES)",
+		'descripcion' : "",
+		'imagen' : "X:\\capuchon goma rj45.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "REDES/ACCESORIOS",
+		'precio' : 1,
+		'stock' : "S"
+	},
+	{
+		'id' : 3214,
+		'nombre' : "ALMOHADILLA ELECTRICA CERVICAL SILFAB AL82-A",
+		'descripcion' : "",
+		'imagen' : "X:\\CERVICALAL82.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 21,
+		'stock' : "S"
+	},
+	{
+		'id' : 3611,
+		'nombre' : "CALEFACTOR CONVECTOR PORTATIL PROTALIA CH2000B MARFIL",
+		'descripcion' : "",
+		'imagen' : "X:\\CH2000B-MARFIL.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 77,
+		'stock' : "S"
+	},
+	{
+		'id' : 2459,
+		'nombre' : "CLEAN TECH DESENGRASANTE ANTIESTATICO (CONTAMATIC)",
+		'descripcion' : "",
+		'imagen' : "X:\\cleantech desengrasante.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 11,
+		'stock' : "S"
+	},
+	{
+		'id' : 2229,
+		'nombre' : "COOLER 8 x 8 cm CONECTOR P/FUENTE CON LED",
+		'descripcion' : "",
+		'imagen' : "X:\\cooler 80mm conector fuente led.jpg",
+		'rubro' : "COOLER",
+		'subrubro' : NULL,
+		'precio' : 4,
+		'stock' : "S"
+	},
+	{
+		'id' : 1549,
+		'nombre' : "FUENTE COOLER MASTER 700W B700 V2 80 PLUS BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\coolermas700w.jpg",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 129,
+		'stock' : "S"
+	},
+	{
+		'id' : 857,
+		'nombre' : "COOLER MASTER ELITE 343 S/FUENTE",
+		'descripcion' : "",
+		'imagen' : "X:\\coolmas343.jpg",
+		'rubro' : "GABINETE",
+		'subrubro' : NULL,
+		'precio' : 67,
+		'stock' : "S"
+	},
+	{
+		'id' : 1300,
+		'nombre' : "2GB 800MHZ DDR2 BOX GENERICA",
+		'descripcion' : "",
+		'imagen' : "X:\\ddr22g800.jpg",
+		'rubro' : "MEMORIA",
+		'subrubro' : "DDR2",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 4117,
+		'nombre' : "COLCHON ANTIESCARAS DOMUS1 SILFAB c/compresor regul y kit de reparacion",
+		'descripcion' : "HOME",
+		'imagen' : "X:\\domus1.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 110,
+		'stock' : "S"
+	},
+	{
+		'id' : 622,
+		'nombre' : "AEROSOL ESPUMA DE LIMPIEZA GRANDE (370 CC)",
+		'descripcion' : "",
+		'imagen' : "X:\\espuma de limpieza.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 9,
+		'stock' : "S"
+	},
+	{
+		'id' : 1697,
+		'nombre' : "FUENTE EVGA 600W 100B1-0600-KR  BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\evga600w.jpg",
+		'rubro' : "FUENTE",
+		'subrubro' : NULL,
+		'precio' : 109,
+		'stock' : "S"
+	},
+	{
+		'id' : 3410,
+		'nombre' : "HD 2TB USB 3.0 EXT SEAGATE EXPANSION BLACK",
+		'descripcion' : "",
+		'imagen' : "X:\\HD2TSEAGATEXPANS.jpg",
+		'rubro' : "DISCO/RIGIDO",
+		'subrubro' : "USB",
+		'precio' : 98,
+		'stock' : "S"
+	},
+	{
+		'id' : 864,
+		'nombre' : "IMPRESORA HP LASERJET PRO M12W",
+		'descripcion' : "",
+		'imagen' : "X:\\hp12w.jpg",
+		'rubro' : "IMPRESORA",
+		'subrubro' : "LASER",
+		'precio' : 126,
+		'stock' : "S"
+	},
+	{
+		'id' : 617,
+		'nombre' : "KIT AEROSOL/LIMPIA LCD+18 PAÑOS NOTEBOOK",
+		'descripcion' : "",
+		'imagen' : "X:\\kit limpieza 18 paños.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 15,
+		'stock' : "S"
+	},
+	{
+		'id' : 2763,
+		'nombre' : "ESTABILIZADOR LYONN 2000VA TCA-2000N-V P/ELECTRODOMESTICO",
+		'descripcion' : "",
+		'imagen' : "X:\\lyonn2000.jpg",
+		'rubro' : "ESTABILIZADOR",
+		'subrubro' : NULL,
+		'precio' : 40,
+		'stock' : "S"
+	},
+	{
+		'id' : 3510,
+		'nombre' : "MICRO SD 64GB BOX KINGSTON CLASE 10",
+		'descripcion' : "",
+		'imagen' : "X:\\microsd64c10.jpg",
+		'rubro' : "MEMORIA",
+		'subrubro' : NULL,
+		'precio' : 32,
+		'stock' : "S"
+	},
+	{
+		'id' : 4240,
+		'nombre' : "MULETA ALUMINIO REGULABLE 113/133CM - M1007 SILFAB (PAR)",
+		'descripcion' : "home",
+		'imagen' : "X:\\muleta.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 34,
+		'stock' : "S"
+	},
+	{
+		'id' : 4241,
+		'nombre' : "MULETA ALUMINIO REGULABLE XL - M2007 SILFAB (PAR)",
+		'descripcion' : "home",
+		'imagen' : "X:\\muleta.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 35,
+		'stock' : "S"
+	},
+	{
+		'id' : 2232,
+		'nombre' : "PAÑOS LIMPIADORES HUMEDOS FOXTEX  24 PAÑOS",
+		'descripcion' : "",
+		'imagen' : "X:\\paños foxtex.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "LIMPIEZA",
+		'precio' : 2,
+		'stock' : "S"
+	},
+	{
+		'id' : 3198,
+		'nombre' : "PILETA PILETIN 100X140X35",
+		'descripcion' : "home",
+		'imagen' : "X:\\piletin100x140x35.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 39,
+		'stock' : "S"
+	},
+	{
+		'id' : 3612,
+		'nombre' : "CALEFACTOR CONVECTOR PORTATIL PROTALIA CH2000B ACERO",
+		'descripcion' : "",
+		'imagen' : "X:\\PROTALIA CH2000B-ACERO.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 84,
+		'stock' : "S"
+	},
+	{
+		'id' : 3407,
+		'nombre' : "Panel Calefactor Vitrocerámico PROTALIA CH2000A NEGRO",
+		'descripcion' : "home",
+		'imagen' : "X:\\PROTALIA CH2000Bnegro.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 99,
+		'stock' : "S"
+	},
+	{
+		'id' : 2972,
+		'nombre' : "Panel Calefactor Vitrocerámico PROTALIA CH2000A BLANCO",
+		'descripcion' : "",
+		'imagen' : "X:\\protaliach2000ablanco.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 99,
+		'stock' : "S"
+	},
+	{
+		'id' : 4265,
+		'nombre' : "COLCHONETA REPUESTO Y KIT DE REPARACION SILFAB PARA COLCHON ANTIESCARAS DOMUS1",
+		'descripcion' : "home",
+		'imagen' : "X:\\repuestodomus1.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 42,
+		'stock' : "S"
+	},
+	{
+		'id' : 2674,
+		'nombre' : "MICRO AMD AM4 RYZEN 5 1400  (3.4GHZ) BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\RYZEN1400.jpg",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 213,
+		'stock' : "S"
+	},
+	{
+		'id' : 1033,
+		'nombre' : "MICRO AMD AM4 RYZEN 5 1500X  (3.5GHZ) BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\ryzen1500x.jpg",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 249,
+		'stock' : "S"
+	},
+	{
+		'id' : 2664,
+		'nombre' : "MICRO AMD AM4 RYZEN 5 1600  (3.6GHZ) BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\ryzen1600.jpg",
+		'rubro' : "PROCESADORES",
+		'subrubro' : "AMD",
+		'precio' : 256,
+		'stock' : "S"
+	},
+	{
+		'id' : 4197,
+		'nombre' : "ALMOHADILLA ELECTRICA CINTURA SILFAB AL83-A",
+		'descripcion' : "",
+		'imagen' : "X:\\SILFABAL83.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 24,
+		'stock' : "S"
+	},
+	{
+		'id' : 4262,
+		'nombre' : "SILLA DE RUEDAS SILFAB S3010/46 CROMADA C/APOYA BRAZOS Y PIE FIJAS",
+		'descripcion' : "home",
+		'imagen' : "X:\\silla3010.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 267,
+		'stock' : "S"
+	},
+	{
+		'id' : 4239,
+		'nombre' : "SILLA DE RUEDAS SILFAB S3011/46 CROMADA C/APOYA BRAZOS Y PIE DESMONT",
+		'descripcion' : "home",
+		'imagen' : "X:\\silla3011.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 308,
+		'stock' : "S"
+	},
+	{
+		'id' : 3350,
+		'nombre' : "COLCHON LITORAL TERRA TOP 140 2 plazas",
+		'descripcion' : "home",
+		'imagen' : "X:\\terratop2p.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 212,
+		'stock' : "S"
+	},
+	{
+		'id' : 3352,
+		'nombre' : "COLCHON LITORAL LINEA TERRA 140 2 plazas",
+		'descripcion' : "",
+		'imagen' : "X:\\terratop2p.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 216,
+		'stock' : "S"
+	},
+	{
+		'id' : 4288,
+		'nombre' : "COLCHON LITORAL TERRA 1.90X80 1 plaza",
+		'descripcion' : "",
+		'imagen' : "X:\\terratop2p.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 119,
+		'stock' : "S"
+	},
+	{
+		'id' : 3354,
+		'nombre' : "ALMOHADA LITORAL CLASSIC",
+		'descripcion' : "",
+		'imagen' : "X:\\th\\ALMOHADA-litoral.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 6,
+		'stock' : "S"
+	},
+	{
+		'id' : 649,
+		'nombre' : "CABLE POWER A 220V HOMOLOGADO",
+		'descripcion' : "",
+		'imagen' : "X:\\th\\cable-power-220v.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "CABLE/VARIOS",
+		'precio' : 3,
+		'stock' : "S"
+	},
+	{
+		'id' : 788,
+		'nombre' : "ESTABILIZADOR LYONN 1200W TCA-1200N BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\th\\lyonn1200.jpg",
+		'rubro' : "ESTABILIZADOR",
+		'subrubro' : NULL,
+		'precio' : 30,
+		'stock' : "S"
+	},
+	{
+		'id' : 4305,
+		'nombre' : "ESTABILIZADOR LYONN 1200W 4 BOCAS TCA-1200N-A BOX",
+		'descripcion' : "",
+		'imagen' : "X:\\th\\lyonn1200.jpg",
+		'rubro' : "ESTABILIZADOR",
+		'subrubro' : NULL,
+		'precio' : 18,
+		'stock' : "S"
+	},
+	{
+		'id' : 4257,
+		'nombre' : "ROUTER WIRELESS TL-WR941HP TP-LINK 3 Ant 450Mbps High Power",
+		'descripcion' : "HOME",
+		'imagen' : "X:\\th\\tplink941hp.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ROUTER",
+		'precio' : 56,
+		'stock' : "S"
+	},
+	{
+		'id' : 3366,
+		'nombre' : "ROUTER WIRELESS (TL-WR841HP) TP-LINK N 300Mbps  High Power",
+		'descripcion' : "home",
+		'imagen' : "X:\\tplink841hp.jpg",
+		'rubro' : "CONECTIVIDAD",
+		'subrubro' : "ROUTER",
+		'precio' : 41,
+		'stock' : "S"
+	},
+	{
+		'id' : 2947,
+		'nombre' : "VENTILADOR DE TECHO C/LUZ MOD. 3301 TUYU",
+		'descripcion' : "home",
+		'imagen' : "X:\\ventilador techo.jpg",
+		'rubro' : "HOGAR",
+		'subrubro' : NULL,
+		'precio' : 52,
+		'stock' : "S"
+	},
+	{
+		'id' : 4094,
+		'nombre' : "MONITOR ALL IN ONE 22\" BRB BLANCA PARA ARMAR",
+		'descripcion' : "",
+		'imagen' : "\\\\192.168.23.250\\Temporal\\FOTO PROMO AIO\\AIO blanca.jpg",
+		'rubro' : "ALL IN ONE PARA ARMAR",
+		'subrubro' : NULL,
+		'precio' : 402,
+		'stock' : "S"
+	},
+	{
+		'id' : 4095,
+		'nombre' : "MONITOR ALL IN ONE 22\" BRB NEGRA PARA ARMAR",
+		'descripcion' : "",
+		'imagen' : "\\\\192.168.23.250\\Temporal\\FOTO PROMO AIO\\AIO FOTO PROMO1.jpg",
+		'rubro' : "ALL IN ONE PARA ARMAR",
+		'subrubro' : NULL,
+		'precio' : 402,
+		'stock' : "S"
+	},
+	{
+		'id' : 4096,
+		'nombre' : "MONITOR ALL IN ONE 24\" BRB NEGRA PARA ARMAR",
+		'descripcion' : "",
+		'imagen' : "\\\\192.168.23.250\\Temporal\\FOTO PROMO AIO\\AIO FOTO PROMO1.jpg",
+		'rubro' : "ALL IN ONE PARA ARMAR",
+		'subrubro' : NULL,
+		'precio' : 443,
+		'stock' : "S"
+	}
+]

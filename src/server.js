@@ -151,7 +151,7 @@ app.get('/api/productsSilfab', (req, res) => {
 
   const product = req.param('product');
   const uri =
-    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&rows=500&wt=json';
+    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&sort=imagen desc&rows=500&wt=json';
   const options = {
     uri,
     method: 'GET',
@@ -185,7 +185,7 @@ app.get('/api/products', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=random_${rand} desc`;
+  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=imagen desc, random_${rand} desc`;
   const options = {
     uri,
     method: 'GET',

@@ -8,3 +8,5 @@ conectores BD a solr
 -boton tercero de silfab
 ver mercado envios
 
+indexar imagen
+ordenar por imagen silfab

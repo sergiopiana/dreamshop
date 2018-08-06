@@ -10,30 +10,43 @@
 import React from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 import s from './ProductsItemList.css';
+import _ from 'lodash';
 
 class ProductsItemList extends React.Component {
   constructor(props) {
     super(props);
     this.state = { product: [], image:'', stock:''};
-    //this.state = {};
-
+    //this.imagenParser = this.imagenParser.bind(this);
   }
   componentDidMount(){
     this.setState({product:this.props.item });
-    if(!_.isUndefined(this.state.product.imagen)){ 
-      this.setState({image:this.state.product.imagen });
-     }else{
-      this.setState({image:"../img/default.jpg" });
-     }
+  }
+  
+  imagenParser(imagen){
+    if(!_.isUndefined(imagen)){
+      imagen = imagen.replace(/\\/g,'/');
+      let imagenRuta = imagen.split(":");
+      console.log("http://www.dreamshop.com.ar/images/"+imagenRuta[1]);
+      return ("http://www.dreamshop.com.ar/images/"+imagenRuta[1])
+
+
+    }else{
+      return("../img/default.jpg");
     }
+  }
 
   render() {
     return (
-      <div className={` ${this.props.xs}  ${this.props.md}`}>
 
+
+
+
+
+      
+      <div className={` ${this.props.xs}  ${this.props.md}`}>
       <div className="product">
-        <div className="product-img">
-          <img src={this.state.image} alt="" />
+        <div className="product-img" style={{backgroundImage:`url(${this.imagenParser(this.state.product.imagen)})`}}>
+          <img className="img-fluid img-rounded hidden" style={{maxHeight:"200px", maxWidth:"200px"}} src={this.imagenParser(this.state.product.imagen)} onerror={this.src="../img/default.jpg"} alt="" />
           <div className="product-label">
             <span className="new">Consultar Stock</span>
           </div>
