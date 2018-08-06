@@ -17,7 +17,7 @@ class breadcrumb extends React.Component {
       <div className={s.root}>
         <div className={s.container}>
 
-          <div id="breadcrumb" class="section">
+          <div id="breadcrumb" className="section">
             <div className="container">
               <div className="row">
                 <div className="col-md-12">

@@ -89,7 +89,7 @@ class Banners extends React.Component {
                 style={{ maxHeight: '200px', zIndex: '0' }}
               >
                 <div className="shop-img">
-                  <img src="img/shop_hogar.png" alt="" />
+                  <img src="img/balanza_silfab.jpg" alt="" />
                 </div>
                 <div className="shop-body">
                   <h3>

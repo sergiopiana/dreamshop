@@ -6,7 +6,7 @@ import ProductsItemList from '../components/ProductsItemList';
 class homeProducts extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { productsHogar: [] };
+    this.state = { productsHogar: [], productsComputacion: [] };
   }
   componentDidMount() {
 		fetch('/api/products?row=6&fq=rubro&valor=hogar')
@@ -74,7 +74,7 @@ class homeProducts extends React.Component {
         <div className="col-md-12">
 			<div className="row">
             {productslistComputacion.map(product => (
-				<ProductsItemList item={product} md="col-md-2" xs="col-xs-6"/>
+				<ProductsItemList key={product.id} item={product} md="col-md-2" xs="col-xs-6"/>
 			))}
 			</div>
           <div id="slick-nav-1" className="products-slick-nav" />

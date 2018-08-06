@@ -17,16 +17,18 @@ class HogarProducts extends React.Component {
 		})
 	}
 		render() {
-			if (_.isEmpty(this.state.products)){
-				return(
-					<div>
-						<Loading/>
-					</div>    
-				)
-			}			
+		if (_.isEmpty(this.state.products)){
+			return(
+				<div>
+					{console.log("sin datos")}
+					<Loading/>
+				</div>    
+			)
+		}			
     const productslist = this.state.products;
     return (
       <div> 
+							{console.log("condatos")}
          <div className="row">
           {productslist.map(product => (
 						<ProductsItemList item={product} md="col-md-3" xs="col-xs-6"/>     

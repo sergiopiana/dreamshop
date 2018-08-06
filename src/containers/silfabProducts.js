@@ -34,7 +34,7 @@ class Silfabproducts extends React.Component {
 				<div className="col-md-9">
 
 							{productslist.map(product => (
-								<ProductsItemList item={product} md="col-md-4" xs="col-xs-6" />
+								<ProductsItemList item={product} key={product.id} md="col-md-4" xs="col-xs-6" />
 							))}
 
 				</div>
