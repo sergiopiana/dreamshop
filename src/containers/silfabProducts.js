@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import _ from 'lodash';
 import Loading from '../components/Loading';
 import ProductsItemList from '../components/ProductsItemList';
-import TreeSalud from '../containers/TreeSalud';
+import TreeSalud from '../containers/treeSalud';
 
 
 class Silfabproducts extends React.Component {
