@@ -31,30 +31,41 @@ class HogarProducts extends React.Component {
 		render() {
 			if (_.isEmpty(this.state.products)){
 				return(
-					<div className="container">
-						<div className="col-md-3">
-							<TreeHogar action={this.filtro.bind()}/>
-						</div>
+					<div className="container-fluid">
+						<div className="row">
+							<div className="col-md-3">
+								<TreeHogar action={this.filtro.bind()}/>
+							</div>
+						</div>	
 						<div className="col-md-9">
+						<div className="row">						
 							<Loading/>
+						</div>	
 						</div>
 					</div>  
 				)
 			}			
-    const productslist = this.state.products;
-    return (
-			<div className="container">
+		const productslist = this.state.products;
+		return (
+		<div className="container-fluid">	
+			<div className="row">
 				<div className="col-md-3">
 					<TreeHogar action={this.filtro.bind()}/>
 				</div>
 				<div className="col-md-9">
+					<div className="row">
 						{productslist.map(product => (
-							<ProductsItemList item={product} key={product.id} md="col-md-4" xs="col-xs-6" />
+							<div key={product.id} className=" col-xs-6  col-md-4">
+							<ProductsItemList item={product}   />
+							</div>
 						))}
+					</div>
+				</div>
 			</div>
 		</div>
-    );
-  }
+		);
+	}
 }
+
 
 export default (HogarProducts);

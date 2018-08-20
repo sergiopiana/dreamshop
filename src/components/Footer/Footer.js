@@ -31,7 +31,7 @@ class Footer extends React.Component {
                       <ul className="footer-links">
                         <li><a href="#"><i className="fa fa-map-marker"></i>FLORIDA 537 1º PISO – LOCAL 486 (GALERIA JARDIN) – C1005AAK</a></li>
                         <li><a href="#"><i className="fa fa-phone"></i>5031-0096 – 99 INTERNO 105 – 106 – 117</a></li>
-                        <li><a href="#"><i className="fa fa-envelope-o"></i>linksml@linkscomputers.com.ar </a></li>
+                        <li><a href="#"><i className="fa fa-envelope-o"></i>ventaslocal@dreamshop.com.ar </a></li>
                       </ul>
                     </div>
                   </div>
@@ -40,8 +40,9 @@ class Footer extends React.Component {
                     <div className="footer">
                       <h3 className="footer-title">Seccion</h3>
                       <ul className="footer-links">
-                        <li><a href="#">Hogar</a></li>
-                        <li><a href="#">Computacion</a></li>
+                        <li><a href="./hogar">Hogar</a></li>
+                        <li><a href="./computacion">Computacion</a></li>
+                        <li><a href="./silfab">Salud</a></li>
                       </ul>
                     </div>
                   </div>

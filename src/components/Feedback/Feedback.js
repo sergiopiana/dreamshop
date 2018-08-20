@@ -22,7 +22,7 @@ class Feedback extends React.Component {
                 <div className="col-md-12">
                   <div className="newsletter">
                     <p>Deseo recibir <strong>NOVEDADES</strong></p>
-                    <form>
+                    <form style={{fontSize:"15px"}}>
                       <input className="input" type="email" placeholder="Ingrese su mail"/>
                       <button className="newsletter-btn"><i className="fa fa-envelope"></i> Suscribirse</button>
                     </form>

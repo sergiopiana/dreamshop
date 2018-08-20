@@ -52,9 +52,7 @@ global.navigator.userAgent = global.navigator.userAgent || 'all';
 
 const app = express();
 
-mongoose.connect(
-  'mongodb+srv://sergiopiana:Proxenio11@dreamshop-y2lyy.gcp.mongodb.net/test?retryWrites=true',
-);
+
 //
 // If you are using proxy from external machine, you can set TRUST_PROXY env
 // Default is to trust proxy headers only from loopback interface.

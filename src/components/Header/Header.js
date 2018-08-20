@@ -36,13 +36,13 @@ class Header extends React.Component {
                 <ul className="header-links pull-right">
                   <li>
                     <a href="#">
-                      <i className="fa fa-phone" /> 11.3893.7091
+                      <i className="fa fa-phone" /><i className="fa fa-whatsapp" /> 11.3893.7091
                     </a>
                   </li>
                   <li>
                     <a href="#">
                       <i className="fa fa-envelope-o" />{' '}
-                      linksml@linkscomputers.com.ar{' '}
+                      ventaslocal@dreamshop.com.ar{' '}
                     </a>
                   </li>
                   <li>
@@ -58,7 +58,7 @@ class Header extends React.Component {
             <div id="header">
               <div className="container">
                 <div className="row">
-                  <div className="col-md-5 hidden-xs">
+                  <div className="col-md-5 d-none d-sm-block">
                     <div className="header-logo">
                       <a href="#" className="logo">
                         <img
@@ -78,12 +78,9 @@ class Header extends React.Component {
                   <div className="col-md-6">
                     <div className="header-search">
                       <form>
-                        <select className="input-select">
-                          <option value="0">Seccion</option>
-                          <option value="1">Hogar</option>
-                          <option value="1">Computacion</option>
-                        </select>
+                        
                         <input
+                        style={{borderRadius:"40px 0 0 40px", height:"39px"}}
                           name="rubroHeader"
                           className="input"
                           placeholder="Buscar"
@@ -93,7 +90,7 @@ class Header extends React.Component {
                     </div>
                   </div>
 
-                  <div className="col-md-3 clearfix hidden">
+                  <div className="col-md-3 clearfix d-none">
                     <div className="header-ctn">
                       <div>
                         <a href="#">
@@ -103,7 +100,7 @@ class Header extends React.Component {
                         </a>
                       </div>
 
-                      <div className="dropdown hidden">
+                      <div className="dropdown d-none">
                         <a
                           className="dropdown-toggle"
                           data-toggle="dropdown"

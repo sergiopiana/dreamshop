@@ -19,8 +19,8 @@ class Navbar extends React.Component {
 
           <nav id="navigation">
             <div className="container">
-              <div id="responsive-nav">
-                <ul className="main-nav nav navbar-nav">
+              <div id="responsive-nav" style={{padding:"20px", fontSize:"18px"}}>
+                <ul className="main-nav nav">
                   <li><a href="./">Home</a></li>
                   <li><a href="./hogar">Hogar</a></li>
                   <li><a href="./computacion">Computacion</a></li>

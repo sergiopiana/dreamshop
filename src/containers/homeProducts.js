@@ -51,7 +51,9 @@ class homeProducts extends React.Component {
         <div className="col-md-12">
 			<div className="row">
             {productslistHogar.map(product => (
-				<ProductsItemList item={product} md="col-md-2" xs="col-xs-6"/>
+							<div key={product.id} className=" col-xs-4  col-md-2">
+                <ProductsItemList item={product}   />
+              </div>
 			))}
 			</div>
           <div id="slick-nav-1" className="products-slick-nav" />
@@ -74,7 +76,9 @@ class homeProducts extends React.Component {
         <div className="col-md-12">
 			<div className="row">
             {productslistComputacion.map(product => (
-				<ProductsItemList key={product.id} item={product} md="col-md-2" xs="col-xs-6"/>
+							<div key={product.id} className=" col-xs-4  col-md-2">
+              <ProductsItemList item={product}   />
+            </div>
 			))}
 			</div>
           <div id="slick-nav-1" className="products-slick-nav" />

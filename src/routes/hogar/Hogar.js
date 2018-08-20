@@ -12,7 +12,7 @@ class Hogar extends React.Component {
     return (
       <div className={s.root}>
         <div className={s.container}>
-          <BreadCrumb />
+          <BreadCrumb ruta={"Home / Hogar"}/>
           <HogarProducts />
         </div>
       </div>

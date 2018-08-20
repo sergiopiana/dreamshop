@@ -16,37 +16,23 @@ class Banners extends React.Component {
     return (
       <div className={s.root}>
         <div className={s.container}>
-          <div id="myCarousel" className="carousel slide">
-            <ol className="carousel-indicators">
-              <li
-                data-target="#myCarousel"
-                data-slide-to="0"
-                className="active"
-              />
-              <li data-target="#myCarousel" data-slide-to="1" />
-            </ol>
+          <div id="myCarousel" className="carousel slide" data-ride="carousel">  
             <div className="carousel-inner">
-              <div className="active item">
-                <img src="img/banner1.png" />
+              <div className="carousel-item active">
+                <img className="d-block w-100" src="img/banner1.png" alt="First slide"/>
               </div>
-              <div className="item">
-                <img src="img/banner2.png" />
+              <div className="carousel-item">
+                <img className="d-block w-100" src="img/banner2.png" alt="Second  slide"/>
               </div>
-            </div>
-            <a
-              className="carousel-control left"
-              href="#myCarousel"
-              data-slide="prev"
-            >
-              &lsaquo;
-            </a>
-            <a
-              className="carousel-control right"
-              href="#myCarousel"
-              data-slide="next"
-            >
-              &rsaquo;
-            </a>
+            </div>  
+              <a className="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span className="sr-only">Previous</span>
+              </a>
+              <a className="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                <span className="sr-only">Next</span>
+              </a>
           </div>
           <div className="row">
             <div className="col-md-4 col-xs-4">
