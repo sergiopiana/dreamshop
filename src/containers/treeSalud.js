@@ -27,7 +27,7 @@ class TreeSalud extends React.Component {
             const rubroslist = this.state.categs;
     return (
         <div> 
-            <div className="list-group" style={{border:"1px"}}>
+            <div className="list-group" style={{border:"0px"}}>
             {rubroslist.map(categ => (
                 <a onClick={() => this.props.action(categ.rubro)} value={categ.rubro} style={{fontSize:"10px"}} href="#" className="list-group-item">{categ.rubro}</a>
             ))}
