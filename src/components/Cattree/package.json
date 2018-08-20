@@ -1,0 +1,6 @@
+{
+  "name": "Cattree",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Cattree.js"
+}

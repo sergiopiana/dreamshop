@@ -234,13 +234,66 @@ app.get('/api/productsComputacion', (req, res) => {
   });
 });
 
-app.get('/api/products', (req, res) => {
+app.get('/api/rubrosComputacion', (req, res) => {
   setTimeout(() => {
     cache = undefined;
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?q=*:*';
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=!rubro=hogar&fq=!rubro=salud';
+  const options = {
+    uri,
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+  };
+
+  request(options, (err, rsp, body) => {
+    if (err) {
+      return res.status(401).send(err);
+    }
+    if (!err && parseInt(rsp.statusCode, 10) === 200) {
+      res.setHeader('content-type', 'application/json');
+      return res.status(200).send(body);
+    }
+  });
+});
+
+app.get('/api/rubrosHogar', (req, res) => {
+  setTimeout(() => {
+    cache = undefined;
+  }, 86400000);
+
+  const product = req.param('product');
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=rubro=hogar';
+  const options = {
+    uri,
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+  };
+
+  request(options, (err, rsp, body) => {
+    if (err) {
+      return res.status(401).send(err);
+    }
+    if (!err && parseInt(rsp.statusCode, 10) === 200) {
+      res.setHeader('content-type', 'application/json');
+      return res.status(200).send(body);
+    }
+  });
+});
+app.get('/api/rubrosSalud', (req, res) => {
+  setTimeout(() => {
+    cache = undefined;
+  }, 86400000);
+
+  const product = req.param('product');
+  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=rubro=salud';
   const options = {
     uri,
     method: 'GET',

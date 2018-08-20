@@ -55,9 +55,15 @@ class ProductsItemList extends React.Component {
                   <div className="panel panel-default" style={{fontSize:"12px"}}>
                     <div className="panel-heading">RUBRO</div>
                     <div className="panel-body">
-                      <p>{this.state.product.rubro}</p>
+                      <p><b>{this.state.product.rubro}</b></p>
                     </div>
                   </div>  
+                  <div className="panel panel-default" style={{fontSize:"12px"}}>
+                    <div className="panel-heading">DESCRIPCION</div>
+                    <div className="panel-body">
+                      <p style={{textAlign:'justify'}}>{this.state.product.descripcion}</p>
+                    </div>
+                  </div>                    
                   <div className="panel panel-default" style={{fontSize:"12px"}}>
                     <div className="panel-heading" style={{fontSize:"16px"}}>PRECIO</div>
                     <div className="panel-body">
