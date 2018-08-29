@@ -30,7 +30,7 @@ class Layout extends React.Component {
         <Header />
         <Navbar/>
         {this.props.children}
-        <Feedback />
+        
         <Footer />
       </div>
     );

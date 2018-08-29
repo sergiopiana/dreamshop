@@ -29,7 +29,7 @@ class TreeSalud extends React.Component {
         <div> 
             <div className="list-group">
             {rubroslist.map(categ => (
-                <a onClick={() => this.props.action(categ.rubro)} value={categ.rubro} style={{fontSize:"12px", border:"0px"}} href="#" className="list-group-item list-group-item-action">{categ.rubro}</a>
+                <a onClick={() => this.props.action(categ.subrubro)} value={categ.subrubro} style={{fontSize:"12px", border:"0px"}} href="#" className="list-group-item list-group-item-action">{categ.subrubro}</a>
             ))}
             </div>
 	    </div>

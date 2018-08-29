@@ -3,7 +3,7 @@ Ver marca Garantia
 *Carrito
 -sacar decimales
 Manejar Stock 0 - MEnsaje Consultar Stock
-conectores BD a solr
+-conectores BD a solr
 -Banners full
 -boton tercero de silfab
 ver mercado envios

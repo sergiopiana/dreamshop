@@ -19,11 +19,14 @@ class Banners extends React.Component {
           <div id="myCarousel" className="carousel slide" data-ride="carousel">  
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img className="d-block w-100" src="img/banner1.png" alt="First slide"/>
+                <img className="d-block w-100" src="img/banner1.jpg" alt="First slide"/>
               </div>
               <div className="carousel-item">
-                <img className="d-block w-100" src="img/banner2.png" alt="Second  slide"/>
+                <img className="d-block w-100" src="img/banner2.jpg" alt="Second  slide"/>
               </div>
+              <div className="carousel-item">
+                <img className="d-block w-100" src="img/banner3.jpg" alt="Second  slide"/>
+              </div>              
             </div>  
               <a className="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
                 <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -47,7 +50,7 @@ class Banners extends React.Component {
                   <h3>
                     Computacion<br />
                   </h3>
-                  <a href="#" className="cta-btn">
+                  <a href="/computacion" className="cta-btn">
                     Ver Productos <i className="fa fa-arrow-circle-right" />
                   </a>
                 </div>
@@ -63,7 +66,7 @@ class Banners extends React.Component {
                   <h3>
                     Hogar<br />
                   </h3>
-                  <a href="#" className="cta-btn">
+                  <a href="/hogar" className="cta-btn">
                     Ver Productos <i className="fa fa-arrow-circle-right" />
                   </a>
                 </div>

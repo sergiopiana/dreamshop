@@ -80,7 +80,7 @@ class ProductsItemList extends React.Component {
         </div>
       </div>
 
-        <div className="product">
+        <div className="product" data-toggle="modal" data-target={`#a${this.state.product.id}`}>
           <div className="product-img" style={{backgroundImage:`url(${this.imagenParser(this.state.product.imagen)})`}}>
             <img className="img-fluid img-rounded d-none" style={{maxHeight:"200px", maxWidth:"200px"}} src={this.imagenParser(this.state.product.imagen)}  alt="" />
             <div className="product-label">
@@ -94,7 +94,7 @@ class ProductsItemList extends React.Component {
             </h3>
             <h4 className="product-price">${this.state.product.precio}</h4>
 
-            <div className="product-btns">
+{ /*           <div className="product-btns">
               <button className="add-to-wishlist">
                 <i className="fa fa-heart-o" style={{color:"dimgrey"}} />
                 <span className="tooltipp">Favoritos</span>
@@ -104,7 +104,7 @@ class ProductsItemList extends React.Component {
                   <i className="fa fa-eye" style={{color:"dimgrey"}}/>
                 <span className="tooltipp">Ver Detalle</span>
               </button>
-            </div>
+    </div>*/}
           </div>
         </div>
     </div>

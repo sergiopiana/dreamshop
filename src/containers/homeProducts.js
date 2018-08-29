@@ -37,7 +37,7 @@ class homeProducts extends React.Component {
       <div>
         <div className="col-md-12" style={{ paddingTop: '20px' }}>
           <div className="section-title">
-            <h3 className="title">Nuevos Productos Hogar</h3>
+            <h3 className="title">Nuevos Productos Hogar y Salud</h3>
             {/* <div className="section-nav">
 								<ul className="section-tab-nav tab-nav">
 									<li className="active"><a data-toggle="tab" href="#tab1">Aceleradoras Graficas</a></li>

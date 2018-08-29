@@ -18,7 +18,7 @@ class ComputacionProducts extends React.Component {
 	}
 	filtro = (valor) => {
 		this.setState({products:[] })
-		fetch(`/api/products?row=100&fq=rubro&valor=${valor}`)
+		fetch(`/api/products?row=100&fq=rubro&valor="${valor}"`)
     .then(response => response.json())
     .then((json) => {
       this.setState({products:json.response.docs })
