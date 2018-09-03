@@ -25,6 +25,11 @@ class Header extends React.Component {
         this.setState({ rubros: json.response.docs });
       });
   }
+  handleSubmit(event) {
+    alert('A name was submitted: ' + this.state.value);
+    event.preventDefault();
+  }
+
 
   render() {
     return (
@@ -58,7 +63,19 @@ class Header extends React.Component {
             <div id="header">
               <div className="container">
                 <div className="row">
-                  <div className="col-md-5 d-none d-sm-block">
+                <div className="col-sm-12 d-block d-md-none">
+                    <div className="header-logo">
+                      <a href="#" className="logo">
+                        <img
+                          height="120px"
+                          
+                          src="./img/logoDream.png"
+                          alt=""
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div className="col-md-5 d-none d-md-block">
                     <div className="header-logo">
                       <a href="#" className="logo">
                         <img
@@ -75,17 +92,17 @@ class Header extends React.Component {
                     </div>
                   </div>
 
-                  <div className="col-md-6">
-                    <div className="header-search">
+                  <div className="col-md-6 col-12" style={{paddingLeft:'0', paddingRight:'0'}}>
+                    <div className="header-search" style={{textAlign:'center'}}>
                       <form>
                         
                         <input
                         style={{borderRadius:"40px 0 0 40px", height:"39px"}}
-                          name="rubroHeader"
+                          name="busquedaValue"
                           className="input"
                           placeholder="Buscar"
                         />
-                        <button className="search-btn">Buscar</button>
+                        <Link to={{pathname:'/busqueda', state: { valor: this.busquedaValue} }}><button className="search-btn">Buscar</button></Link>
                       </form>
                     </div>
                   </div>

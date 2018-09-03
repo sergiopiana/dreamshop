@@ -32,6 +32,10 @@ const routes = {
       load: () => import(/* webpackChunkName: 'computacion' */ './computacion'),
     },
     {
+      path: '/busqueda',
+      load: () => import(/* webpackChunkName: 'busqueda' */ './busqueda'),
+    },    
+    {
       path: '/contact',
       load: () => import(/* webpackChunkName: 'contact' */ './contact'),
     },
