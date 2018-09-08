@@ -32,6 +32,7 @@ class Header extends React.Component {
 
 
   render() {
+    console.log(this.props.match)
     return (
       <div className={s.root}>
         <div className={s.container}>

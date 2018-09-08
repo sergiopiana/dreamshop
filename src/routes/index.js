@@ -8,6 +8,7 @@
  */
 
 /* eslint-disable global-require */
+import queryString from 'query-string'
 
 // The top-level (parent) route
 const routes = {
@@ -21,8 +22,9 @@ const routes = {
     },
     {
       path: '/silfab',
+      query: queryString.parse(location.search),
       load: () => import(/* webpackChunkName: 'silfab' */ './silfab'),
-    },
+    },    
     {
       path: '/hogar',
       load: () => import(/* webpackChunkName: 'hogar' */ './hogar'),
@@ -70,7 +72,7 @@ const routes = {
   async action({ next }) {
     // Execute each child route until one of them return the result
     const route = await next();
-
+    console.log(route.query)
     // Provide default values for title, description etc.
     route.title = `${route.title || 'Untitled Page'} - www.reactstarterkit.com`;
     route.description = route.description || '';
