@@ -9,30 +9,24 @@
 
 import React from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
+import { connect } from 'react-redux';
+
 import s from './Header.css';
 import Link from '../Link';
 import Navigation from '../Navigation';
-
+import * as busquedaActions from '../../ducks/busqueda';
 class Header extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { rubros: [] };
   }
-  fetchRubros(rubro) {
-    fetch(`/api/rubros/rubro=${rubro}`)
-      .then(response => response.json())
-      .then(json => {
-        this.setState({ rubros: json.response.docs });
-      });
-  }
-  handleSubmit(event) {
-    alert('A name was submitted: ' + this.state.value);
-    event.preventDefault();
+
+  onDataSubmit() {
+    let value = $('#valueFind').val();
+    this.props.fetchBusqueda(value);
   }
 
 
   render() {
-    console.log()
     return (
       <div className={s.root}>
         <div className={s.container}>
@@ -100,10 +94,11 @@ class Header extends React.Component {
                         <input
                         style={{borderRadius:"40px 0 0 40px", height:"39px"}}
                           name="busquedaValue"
+                          id="valueFind"
                           className="input"
                           placeholder="Buscar"
                         />
-                        <Link to={{pathname:'/busqueda', state: { valor: this.busquedaValue} }}><button className="search-btn">Buscar</button></Link>
+                        <Link to={{pathname:'/busqueda', state: { valor: this.busquedaValue} }}><button onClick={() => this.onDataSubmit()} className="search-btn">Buscar</button></Link>
                       </form>
                     </div>
                   </div>
@@ -194,5 +189,11 @@ class Header extends React.Component {
     );
   }
 }
+const mapStateToProps = state => ({
+  busqueda: state.busqueda,
+});
 
-export default withStyles(s)(Header);
+export default connect(mapStateToProps, busquedaActions)(
+  withStyles(s)(Header),
+);
+

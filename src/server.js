@@ -115,6 +115,36 @@ app.get(
 // APIS
 // -----------------------------------------------------------------------------
 
+app.get('/api/busqueda', (req, res) => {
+  setTimeout(() => {
+    cache = undefined;
+  }, 86400000);
+
+  const product = req.param('product');
+  const uri =
+    `http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*${product}*&q=*:*&sort=imagen desc&rows=500&wt=json`;
+  const options = {
+    uri,
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+  };
+
+  request(options, (err, rsp, body) => {
+    if (err) {
+      return res.status(401).send(err);
+    }
+    if (!err && parseInt(rsp.statusCode, 10) === 200) {
+      res.setHeader('content-type', 'application/json');
+      return res.status(200).send(body);
+    }
+  });
+});
+
+
+
 app.get('/api/rubros', (req, res) => {
   setTimeout(() => {
     cache = undefined;

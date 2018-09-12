@@ -1,40 +1,41 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
+import { connect } from 'react-redux';
 import Loading from '../components/Loading';
 import ProductsItemList from '../components/ProductsItemList';
-import TreeHogar from '../containers/treeHogar';
+import * as busquedaActions from '../ducks/busqueda';
 
-class HogarProducts extends React.Component {
+
+class BusquedaProducts extends React.Component {
 	constructor(props){
 		super(props)
 		this.state = {products:[] }  
 	}
-  componentDidMount() {
-		fetch('/api/products?row=100&fq=rubro&valor=hogar')
-    .then(response => response.json())
-    .then((json) => {
-      this.setState({products:json.response.docs })
-		
-		})
+componentDidMount() {
+	this.props.fetchMostrar();
+	fetch(`/api/busqueda?product=${this.props.busqueda}`)
+		.then(response => response.json())
+		.then((json) => {
+		this.setState({products:json.response.docs })
+	}) 
 	}
-	
-	filtro = (valor) => {
-			this.setState({products:[] })
-			fetch(`/api/products?row=100&fq=rubro&valor=${valor}`)
-			.then(response => response.json())
-			.then((json) => {
-				this.setState({products:json.response.docs })
-			
-			})		
-	}
-	
+
+componentWillReceiveProps(nextProps) {
+	this.setState({products:[]})
+	console.log('valor'+nextProps.busqueda);
+
+	fetch(`/api/busqueda?product=${nextProps.busqueda}`)
+		.then(response => response.json())
+		.then((json) => {
+		this.setState({products:json.response.docs })
+	}) 
+}
 		render() {
 			if (_.isEmpty(this.state.products)){
 				return(
 					<div className="container-fluid">
 						<div className="row">
 							<div className="col-md-3">
-								<TreeHogar action={this.filtro.bind()}/>
 							</div>
 						</div>	
 						<div className="col-md-9">
@@ -50,12 +51,11 @@ class HogarProducts extends React.Component {
 		<div className="container-fluid">	
 			<div className="row">
 				<div className="col-md-3">
-					<TreeHogar action={this.filtro.bind()}/>
 				</div>
 				<div className="col-md-9">
 					<div className="row">
 						{productslist.map(product => (
-							<div key={product.id} className=" col-xs-6  col-md-4">
+							<div key={product.id} className=" col-6  col-md-4">
 							<ProductsItemList item={product}   />
 							</div>
 						))}
@@ -68,4 +68,9 @@ class HogarProducts extends React.Component {
 }
 
 
-export default (HogarProducts);
+const mapStateToProps = state => ({
+	busqueda: state.busqueda,
+  });
+  
+  export default connect(mapStateToProps, busquedaActions)(BusquedaProducts);
+

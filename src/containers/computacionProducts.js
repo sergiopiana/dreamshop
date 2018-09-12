@@ -53,7 +53,7 @@ class ComputacionProducts extends React.Component {
 				<div className="col-md-9">
 					<div className="row">
 						{productslist.map(product => (
-							<div key={product.id} className=" col-xs-6  col-md-4">
+							<div key={product.id} className=" col-6  col-md-4">
 								<ProductsItemList item={product}   />
 							</div>
 						))}
