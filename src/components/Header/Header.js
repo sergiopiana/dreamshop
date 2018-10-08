@@ -15,6 +15,8 @@ import s from './Header.css';
 import Link from '../Link';
 import Navigation from '../Navigation';
 import * as busquedaActions from '../../ducks/busqueda';
+import MessengerCustomerChat from 'react-messenger-customer-chat';
+
 class Header extends React.Component {
   constructor(props) {
     super(props);
@@ -183,6 +185,10 @@ class Header extends React.Component {
                 </div>
               </div>
             </div>
+            <MessengerCustomerChat
+              pageId="470449566709286"
+              appId="220571191870067"
+            />          
           </header>
         </div>
       </div>

@@ -122,7 +122,7 @@ app.get('/api/busqueda', (req, res) => {
 
   const product = req.param('product');
   const uri =
-    `http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*${product}*&q=*:*&sort=imagen desc&rows=500&wt=json`;
+    `http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=nombre:*${product}*&q=*:*&sort=imagen desc&rows=500&wt=json`;
   const options = {
     uri,
     method: 'GET',
@@ -151,7 +151,7 @@ app.get('/api/rubros', (req, res) => {
   }, 86400000);
   const rubro = req.param('rubro');
 
-  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=rubro:${rubro}* &q=*:*&rows=500&wt=json`;
+  const uri = `http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=rubro:${rubro}* &q=*:*&rows=500&wt=json`;
   const options = {
     uri,
     method: 'GET',
@@ -179,7 +179,7 @@ app.get('/api/productsSilfab', (req, res) => {
 
   const product = req.param('product');
   const uri =
-    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&sort=imagen desc&rows=500&wt=json';
+    'http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=nombre:*silfab*&q=*:*&sort=imagen desc&rows=500&wt=json';
   const options = {
     uri,
     method: 'GET',
@@ -213,7 +213,7 @@ app.get('/api/products', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = `http://sergiopiana.com:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=imagen desc, random_${rand} desc`;
+  const uri = `http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=imagen desc, random_${rand} desc`;
   const options = {
     uri,
     method: 'GET',
@@ -241,7 +241,7 @@ app.get('/api/productsComputacion', (req, res) => {
 
   const product = req.param('product');
   const uri =
-    'http://sergiopiana.com:8983/solr/dreamshop/select?fq=!rubro:hogar&q=*:*&rows=50&wt=json';
+    'http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=!rubro:hogar&q=*:*&rows=50&wt=json';
   const options = {
     uri,
     method: 'GET',
@@ -268,7 +268,7 @@ app.get('/api/rubrosComputacion', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=!rubro=hogar&fq=!rubro=salud';
+  const uri = 'http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=!rubro=hogar&fq=!rubro=salud';
   const options = {
     uri,
     method: 'GET',
@@ -295,7 +295,7 @@ app.get('/api/rubrosHogar', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=rubro=hogar';
+  const uri = 'http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fl=rubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=rubro&group.main=true&fq=rubro=hogar';
   const options = {
     uri,
     method: 'GET',
@@ -321,7 +321,7 @@ app.get('/api/rubrosSalud', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = 'http://sergiopiana.com:8983/solr/dreamshop/select?fl=subrubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=subrubro&group.main=true&fq=rubro=salud';
+  const uri = 'http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fl=subrubro&indent=on&q=*:*&rows=100&wt=json&group=true&group.field=subrubro&group.main=true&fq=rubro=salud';
   const options = {
     uri,
     method: 'GET',

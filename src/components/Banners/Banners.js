@@ -37,8 +37,9 @@ class Banners extends React.Component {
                 <span className="sr-only">Next</span>
               </a>
           </div>
-          <div className="row">
-            <div className="col-md-4 col-xs-4">
+          <div className="row justify-content-md-center">
+          <div className="col-md-auto"></div>
+            <div className="col-md-3 col-xs-4">
               <div
                 className="shop"
                 style={{ maxHeight: ' 200px', zIndex: '0' }}
@@ -57,7 +58,7 @@ class Banners extends React.Component {
               </div>
             </div>
 
-            <div className="col-md-4 col-xs-4">
+            <div className="col-md-3 col-xs-4">
               <div className="shop" style={{ maxHeight: '200px', zIndex: '0' }}>
                 <div className="shop-img">
                   <img src="img/shop_hogar.png" alt="" />
@@ -72,7 +73,7 @@ class Banners extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-md-4 col-xs-4">
+            <div className="col-md-3 col-xs-4">
               <div
                 className="shopB"
                 style={{ maxHeight: '200px', zIndex: '0' }}
@@ -90,6 +91,7 @@ class Banners extends React.Component {
                 </div>
               </div>
             </div>
+            <div className="col-md-auto"></div>
           </div>
         </div>
       </div>
