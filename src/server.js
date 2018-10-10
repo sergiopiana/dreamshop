@@ -36,6 +36,7 @@ import { setRuntimeVariable } from './actions/runtime';
 import config from './config';
 
 import mongoose from 'mongoose';
+let newrelic = require('newrelic');
 
 process.on('unhandledRejection', (reason, p) => {
   console.error('Unhandled Rejection at:', p, 'reason:', reason);
@@ -58,7 +59,7 @@ const app = express();
 // Default is to trust proxy headers only from loopback interface.
 // -----------------------------------------------------------------------------
 app.set('trust proxy', config.trustProxy);
-
+app.locals.newrelic = newrelic;
 //
 // Register Node.js middleware
 // -----------------------------------------------------------------------------

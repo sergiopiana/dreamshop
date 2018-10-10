@@ -185,10 +185,10 @@ class Header extends React.Component {
                 </div>
               </div>
             </div>
-            <MessengerCustomerChat
+            {/* <MessengerCustomerChat
               pageId="470449566709286"
               appId="220571191870067"
-            />          
+            />           */}
           </header>
         </div>
       </div>

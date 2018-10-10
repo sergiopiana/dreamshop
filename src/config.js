@@ -38,7 +38,7 @@ module.exports = {
   // Web analytics
   analytics: {
     // https://analytics.google.com/
-    googleTrackingId: process.env.GOOGLE_TRACKING_ID, // UA-XXXXX-X
+    googleTrackingId: 'UA-47994931-3', // UA-XXXXX-X
   },
 
   // Authentication
