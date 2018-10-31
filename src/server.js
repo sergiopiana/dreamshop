@@ -214,7 +214,7 @@ app.get('/api/products', (req, res) => {
   }, 86400000);
 
   const product = req.param('product');
-  const uri = `http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=imagen desc, random_${rand} desc`;
+  const uri = `http://bxp-argentina.com.ar:8983/solr/dreamshop/select?fq=!rubro:salud&fq=${fq}:'${valor}'&q=*:*&rows=${registros}&wt=json&sort=imagen desc, random_${rand} desc`;
   const options = {
     uri,
     method: 'GET',
