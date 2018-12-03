@@ -17,6 +17,7 @@ class ProductsItemList extends React.Component {
     super(props);
     this.state = { product: [], image:'', stock:''};
     //this.imagenParser = this.imagenParser.bind(this);
+    this.precioConv = this.precioConv.bind(this);
   }
   componentDidMount(){
     this.setState({product:this.props.item });
@@ -35,6 +36,18 @@ class ProductsItemList extends React.Component {
     }
   }
 
+  precioConv(precio, moneda, cotizacion){
+    
+    if(moneda == "1"){
+ //     console.log("$"+precio)
+      return "$"+_.round(precio)
+
+    }else{
+      let precioPesos = (precio * cotizacion)
+//      console.log("u$s"+precioPesos)  
+      return "$"+_.round(precioPesos)
+    }
+  }
   render() {
     return (
   <div className={s.root}>
@@ -67,7 +80,7 @@ class ProductsItemList extends React.Component {
                   <div className="card" style={{fontSize:"12px", marginBottom:"10px"}}>
                     <div className="card-header" style={{fontSize:"16px"}}>PRECIO</div>
                     <div className="card-body">
-                      <h5 style={{color:"#d10024"}}>${this.state.product.precio}</h5>
+                      <h5 style={{color:"#d10024"}}>{this.precioConv(this.state.product.precio, this.state.product.moneda, this.state.product.cotizacion)}</h5>
                     </div>
                   </div>                                   
                 </div>
@@ -92,7 +105,7 @@ class ProductsItemList extends React.Component {
             <h3 className="product-name">
               <a data-target={`#a${this.state.product.id}`} style={{color:"darkgrey", cursor:"pointer"}} role="button" data-toggle="modal">{this.state.product.nombre}</a>
             </h3>
-            <h4 className="product-price">${this.state.product.precio}</h4>
+            <h4 className="product-price">{this.precioConv(this.state.product.precio, this.state.product.moneda, this.state.product.cotizacion)}</h4>
 
 { /*           <div className="product-btns">
               <button className="add-to-wishlist">
