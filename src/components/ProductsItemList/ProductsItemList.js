@@ -93,7 +93,53 @@ class ProductsItemList extends React.Component {
         </div>
       </div>
 
-        <div className="product" data-toggle="modal" data-target={`#a${this.state.product.id}`}>
+      <div className="modal fade" id={`contact${this.state.product.id}`} tabIndex="-1" role="dialog">
+        <div className="modal-dialog" role="document">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h4 className="modal-title" id="myModalLabel">Solicitud de Producto</h4>
+              <button type="button" className="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div className="modal-body">
+            <form>
+              <div className="form-group">
+                <label for="exampleFormControlInput1">Producto</label>
+                <input type="text" className="form-control" id="exampleFormControlInput1" value={this.state.product.nombre}/>
+              </div>              
+              <div className="form-group">
+                <label for="exampleFormControlInput1">Email</label>
+                <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
+              </div>
+              <div className="form-group">
+                <label for="exampleFormControlSelect1">Cantidad</label>
+                <select className="form-control" id="exampleFormControlSelect1">
+                  <option>1</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+              <div className="form-group">
+                <label for="exampleFormControlTextarea1">Comentarios Adicionales</label>
+                <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+              <div className="row">
+                <div className="col">
+                  <button type="submit" className="btn btn-primary">Enviar solicitud</button>
+                </div>
+                <div className="col">
+                  <button type="button" className="btn btn-default" data-dismiss="modal">Cancelar</button>
+                </div>                
+              </div>
+            </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+        <div className="product">
           <div className="product-img" style={{backgroundImage:`url(${this.imagenParser(this.state.product.imagen)})`}}>
             <img className="img-fluid img-rounded d-none" style={{maxHeight:"200px", maxWidth:"200px"}} src={this.imagenParser(this.state.product.imagen)}  alt="" />
             <div className="product-label">
@@ -105,8 +151,17 @@ class ProductsItemList extends React.Component {
             <h3 className="product-name">
               <a data-target={`#a${this.state.product.id}`} style={{color:"darkgrey", cursor:"pointer"}} role="button" data-toggle="modal">{this.state.product.nombre}</a>
             </h3>
-            <h4 className="product-price">{this.precioConv(this.state.product.precio, this.state.product.moneda, this.state.product.cotizacion)}</h4>
-
+            <div className="row pl-4 pr-4" style={{alignItems:"baseline"}}> 
+              <div className="col">
+              <a data-target={`#a${this.state.product.id}`} style={{color:"darkgrey", cursor:"pointer"}} role="button" data-toggle="modal"><h4 className="fa fa-search" data-toggle="tooltip" data-placement="bottom" title="Ver detalle"></h4></a>
+              </div>
+              <div className="col">
+              <a data-target={`#contact${this.state.product.id}`} style={{color:"darkgrey", cursor:"pointer"}} role="button" data-toggle="modal"><h4 className="fa fa-envelope" data-toggle="tooltip" data-placement="bottom" title="Consultar Producto"></h4></a>
+              </div>
+              <div className="col">
+                <h4 className="product-price">{this.precioConv(this.state.product.precio, this.state.product.moneda, this.state.product.cotizacion)}</h4>
+              </div>              
+            </div>
 { /*           <div className="product-btns">
               <button className="add-to-wishlist">
                 <i className="fa fa-heart-o" style={{color:"dimgrey"}} />

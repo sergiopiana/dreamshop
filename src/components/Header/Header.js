@@ -82,7 +82,7 @@ class Header extends React.Component {
                             marginTop: ' -28px',
                             marginLeft: '-29px',
                           }}
-                          src="./img/logoDream.png"
+                          src="./img/logo.jpg"
                           alt=""
                         />
                       </a>
