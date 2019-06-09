@@ -77,12 +77,7 @@ class Header extends React.Component {
                       <a href="#" className="logo">
                         <img
                           height="120px"
-                          style={{
-                            position: 'absolute',
-                            marginTop: ' -28px',
-                            marginLeft: '-29px',
-                          }}
-                          src="./img/logo.jpg"
+                          src="./img/logoN.png"
                           alt=""
                         />
                       </a>

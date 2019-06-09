@@ -413,7 +413,7 @@ textarea.input {
 #top-header {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #1e1f29;
+  background-color: #ff4a03;
 }
 
 .header-links li {
@@ -431,11 +431,11 @@ textarea.input {
 }
 
 .header-links li a:hover {
-  color: #d10024;
+  color: #eee;
 }
 
 .header-links li i {
-  color: #d10024;
+  color: #eee;
   margin-right: 5px;
 }
 
@@ -446,11 +446,15 @@ textarea.input {
 #header {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #15161d;
+  background-color: #ff4a03;
 }
 
 .header-logo {
   float: left;
+  position: relative;
+  padding: 5px 5px 5px 5px;
+  margin-top: -40px;
+  /*margin-left: -100px;*/
 }
 
 .header-logo .logo img {
@@ -482,7 +486,7 @@ textarea.input {
 .header-search form .search-btn {
   height: 40px;
   width: 100px;
-  background: #d10024;
+  background: #1176be;
   color: #fff;
   font-weight: 700;
   border: none;
