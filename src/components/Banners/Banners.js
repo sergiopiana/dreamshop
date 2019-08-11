@@ -19,13 +19,13 @@ class Banners extends React.Component {
           <div id="myCarousel" className="carousel slide" data-ride="carousel">  
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img className="d-block w-100" src="img/banner1.jpg" alt="First slide"/>
+                <img className="d-block w-100" src="https://www.dreamshop.com.ar/banners/banner1.jpg" alt="First slide"/>
               </div>
               <div className="carousel-item">
-                <img className="d-block w-100" src="img/banner2.jpg" alt="Second  slide"/>
+                <img className="d-block w-100" src="https://www.dreamshop.com.ar/banners/banner2.jpg" alt="Second  slide"/>
               </div>
               <div className="carousel-item">
-                <img className="d-block w-100" src="img/banner3.jpg" alt="Second  slide"/>
+                <img className="d-block w-100" src="https://www.dreamshop.com.ar/banners/banner3.jpg" alt="Second  slide"/>
               </div>              
             </div>  
               <a className="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
