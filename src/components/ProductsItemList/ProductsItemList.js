@@ -11,6 +11,7 @@ import React from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 import s from './ProductsItemList.css';
 import _ from 'lodash';
+import nodemailer from 'nodemailer';
 
 class ProductsItemList extends React.Component {
   constructor(props) {
@@ -23,6 +24,32 @@ class ProductsItemList extends React.Component {
     this.setState({product:this.props.item });
   }
   
+  sender = () => {
+    var mailOptions = {
+      from: 'sergitotrends@gmail.com',
+      to: 'sergiopiana@gmail.com',
+      subject: 'Sending Email using Node.js',
+      text: 'That was easy!'
+    };
+    
+    
+    nodemailer.createTransport({
+      service: 'gmail',
+      auth: {
+        user: 'sergitotrends@gmail.com',
+        pass: 'sergio11'
+      }
+    });
+
+    transporter.sendMail(mailOptions, function(error, info){
+      if (error) {
+        console.log(error);
+      } else {
+        console.log('Email sent: ' + info.response);
+      }
+    });    
+  }
+
   imagenParser(imagen){
     if(_.isUndefined(imagen) || (imagen == '')){
 
@@ -126,7 +153,7 @@ class ProductsItemList extends React.Component {
               </div>
               <div className="row">
                 <div className="col">
-                  <button type="submit" className="btn btn-primary">Enviar solicitud</button>
+                  <button type="submit" onClick={sender} className="btn btn-primary">Enviar solicitud</button>
                 </div>
                 <div className="col">
                   <button type="button" className="btn btn-default" data-dismiss="modal">Cancelar</button>
